@@ -1,0 +1,1466 @@
+Script started on 2024-06-17 16:51:34+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ c
+d ..[K[K[K
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: ~[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mminiconda3[0m  my_unix_session
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: ~[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m~[00m$ ls --help
+[?2004lUsage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      with -l, scale sizes by SIZE when printing them;
+                               e.g., '--block-size=M'; see SIZE format below
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                               modification of file status information);
+                               with -l: show ctime and sort by name;
+                               otherwise: sort by ctime, newest first
+  -C                         list entries by columns
+      --color[=WHEN]         colorize the output; WHEN can be 'always' (default
+                               if omitted), 'auto', or 'never'; more info below
+  -d, --directory            list directories themselves, not their contents
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         do not sort, enable -aU, disable -ls --color
+  -F, --classify             append indicator (one of */=>@|) to entries
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                               single-column -1, verbose -l, vertical -C
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files;
+                               can be augmented with a --sort option, but any
+                               use of --sort=none (-U) disables grouping
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l and -s, print sizes like 1K 234M 2G etc.
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                               that points to a directory
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                               (overridden by -a or -A)
+      --hyperlink[=WHEN]     hyperlink file names; WHEN can be 'always'
+                               (default if omitted), 'auto', or 'never'
+      --indicator-style=WORD  append indicator with style WORD to entry names:
+                               none (default), slash (-p),
+                               file-type (--file-type), classify (-F)
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            default to 1024-byte blocks for disk usage;
+                               used only with -s and per directory totals
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                               link, show information for the file the link
+                               references rather than for the link itself
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print entry names without quoting
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of nongraphic characters
+      --show-control-chars   show nongraphic characters as-is (the default,
+                               unless program is 'ls' and output is a terminal)
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                               literal, locale, shell, shell-always,
+                               shell-escape, shell-escape-always, c, escape
+                               (overrides QUOTING_STYLE environment variable)
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size, largest first
+      --sort=WORD            sort by WORD instead of name: none (-U), size (-S),
+                               time (-t), version (-v), extension (-X)
+      --time=WORD            change the default of using modification times;
+                               access time (-u): atime, access, use;
+                               change time (-c): ctime, status;
+                               birth time: birth, creation;
+                             with -l, WORD determines which time to show;
+                             with --sort=time, sort by WORD (newest first)
+      --time-style=TIME_STYLE  time/date format with -l; see TIME_STYLE below
+  -t                         sort by time, newest first; see --time
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time;
+                               with -l: show access time and sort by name;
+                               otherwise: sort by access time, newest first
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           set output width to COLS.  0 means no limit
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -Z, --context              print any security context of each file
+  -1                         list one file per line.  Avoid '\n' with -q or -b
+      --help     display this help and exit
+      --version  output version information and exit
+
+The SIZE argument is an integer and optional unit (example: 10K is 10*1024).
+Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers of 1000).
+Binary prefixes can be used, too: KiB=K, MiB=M, and so on.
+
+The TIME_STYLE argument can be full-iso, long-iso, iso, locale, or +FORMAT.
+FORMAT is interpreted like in date(1).  If FORMAT is FORMAT1<newline>FORMAT2,
+then FORMAT1 applies to non-recent files and FORMAT2 to recent files.
+TIME_STYLE prefixed with 'posix-' takes effect only outside the POSIX locale.
+Also the TIME_STYLE environment variable sets the default style to use.
+
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors command to set it.
+
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Report any translation bugs to <https://translationproject.org/team/>
+Full documentation <https://www.gnu.org/software/coreutils/ls>
+or available locally via: info '(coreutils) ls invocation'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: ~[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m~[00m$ ls -F Desktop
+[?2004lls: cannot access 'Desktop': No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: ~[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m~[00m$ ls -F Desktop[4P-help[Kcdlssudo bash[5Pbash[2Plscode .[4Plsgit --versionrm -rf ~/miniconda3/miniconda.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3[A]0;saragupta@LAPTOP-VBSP7VB8: ~[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m~[00m$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pmkdir -p ~/miniconda3
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3[K[A]0;saragupta@LAPTOP-VBSP7VB8: ~[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m~[00m$ [11Prm -rf ~/miniconda3/miniconda.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pgit --versionrm -rf ~/miniconda3/miniconda.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pgit --versionls[Kcode .[4Plsbashsudo bashls[Kcdlssudo bashls[Kcdls --helpF Desktop[Ksudo bash
+[?2004l[sudo] password for saragupta: 
+[?2004h]0;root@LAPTOP-VBSP7VB8: /home/saraguptaroot@LAPTOP-VBSP7VB8:/home/saragupta# ls
+[?2004l[0m[01;34mminiconda3[0m  my_unix_session
+[?2004h]0;root@LAPTOP-VBSP7VB8: /home/saraguptaroot@LAPTOP-VBSP7VB8:/home/saragupta# ls miniconda3/[C[C[1P miniconda3/Script started on 2024-06-17 16:55:17+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="72" LINES="41"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd Downloads/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads[00m$ ls
+[?2004l[0m[01;32m'10th Marksheet-min.jpg'[0m
+[01;32m'10th Marksheet.jpg'[0m
+[01;32m'12th marksheet-compressed.jpg'[0m
+[01;32m'12th marksheet.jpg'[0m
+ [01;32m13429495_Sara_Gupta_21745988_202204121106_Resume.pdf[0m
+ [01;32m13726068_SARA_GUPTA_21725694_202207230232_Resume.pdf[0m
+ [01;32m13726068_Sara_Gupta_21725694_202207210817_Resume.pdf[0m
+[01;32m'19135076_Rahul_Goel_resume 4.0.pdf'[0m
+[01;32m'19155061_Prachi _Pranavi_SDE.pdf'[0m
+ [01;32m200507041_IshaGupta_Tableau.twb[0m
+[01;32m'20085038_Ishwar_Kumawat_resume4 (1).pdf'[0m
+ [01;32m20155040_Dhroov_Singh_SDE.pdf[0m
+ [01;32m20155048_JAYASH_TODI.zip[0m
+[01;32m'20155078_Raghav_ Miglani_SDE2 (1).pdf'[0m
+ [01;32m20155084_SARA_GUPTA-20220702T084102Z-001.zip[0m
+ [01;32m20155084_SARA_GUPTA-20220702T190548Z-001.zip[0m
+ [01;32m20155084_SARA_GUPTA-20220704T123316Z-001.zip[0m
+ [01;32m20155084_SARA_GUPTA-20220704T182729Z-001.zip[0m
+[01;32m'20155084_Sara Gupta (1).pdf'[0m
+[01;32m'20155084_Sara Gupta.pdf'[0m
+[01;32m'20155084_Sara Gupta_4rth Sem fee receipt.pdf'[0m
+[01;32m'20155084_Sara_Gupta_Data .pdf'[0m
+[01;32m'20155084_Sara_Gupta_Data Analyst.pdf'[0m
+[01;32m'20155084_Sara_Gupta_Software Engineer.pdf'[0m
+ [01;32m20155084_Sara_Gupta_ejhrj.pdf[0m
+[01;32m'20155084_Sara_Gupta_ft (1).pdf'[0m
+ [01;32m20155084_acad2022231.pdf[0m
+ [01;32m20155084_courses.pdf[0m
+ [01;32m20155084_mess2022231.pdf[0m
+ [01;32m20155084_prov.pdf[0m
+ [01;32m20155096_EOQ.pdf[0m
+ [01;32m20155096_EOquiz9.pdf[0m
+[01;32m'20155096_Shubham_Mandal_SDE without sem Res.pdf'[0m
+ [01;32m20155115_Yash_Shimpi_56.pdf[0m
+ [01;32m2020.pdf[0m
+[01;32m'2021-0882 Sara Gupta.pdf'[0m
+ [01;32m20220508_222539_01.mp4[0m
+ [01;32m20220508_222539_02.mp4[0m
+ [01;32m20220508_222539_99.mp4[0m
+ [01;32m20220508_222556_01.mp4[0m
+ [01;32m20220508_222556_02.mp4[0m
+ [01;32m20220508_222556_99.mp4[0m
+ [01;32m20220508_222602_01.mp4[0m
+[01;32m'20220508_222602_02 (1).mp4'[0m
+ [01;32m20220508_222602_02.mp4[0m
+ [01;32m25FA83E5-AFC3-4802-BF1B-A94A074EEC85.jpg[0m
+ [01;32m2_LC-GSC.mp4[0m
+ [01;32m2ae115cbb70443e6a66de9f8711861cf.mov[0m
+[01;32m'5 Nov, 10.38 pm.mp3'[0m
+ [01;32m5e191af5-30f0-4eef-bedf-a94297bdf1c8.xlsx[0m
+ [01;32m655990c0-089e-49b2-8b19-3674a0540437.jpg[0m
+ [01;32m9999089.pdf[0m
+[01;32m'AADHAAR SARA GUPTA.pdf'[0m
+ [01;32mAE.xlsx[0m
+[01;32m'APD Workshop.pdf'[0m
+ [01;32mAVERERA-20220303T163720Z-001.zip[0m
+[01;32m'Aadhar card.jpeg'[0m
+[01;32m'Aagman (1).pdf'[0m
+[01;32m'Aagman (2).pdf'[0m
+ [01;32mAagman.pdf[0m
+[01;32m'Advanced Excel V3.0 (1).xlsx'[0m
+[01;32m'Advanced Excel V3.0 (2).xlsx'[0m
+[01;32m'Advanced Excel V3.0 (3).xlsx'[0m
+[01;32m'Advanced Excel V3.0.xlsx'[0m
+[01;32m'Affnosys_Mar_Assignment (3).pdf'[0m
+ [01;32mAnaconda3-2021.11-Windows-x86_64.exe[0m
+[01;32m'Application for Employment_Internship.pdf'[0m
+[01;32m'Application- Goldman Sachs.pdf'[0m
+[01;32m'Assignment 1 Business Intelligence.pbix'[0m
+[01;32m'Assignment 2 (1).ipynb'[0m
+[01;32m'Assignment 2.ipynb'[0m
+ [01;32mAttendance_Card.pdf[0m
+[01;32m'Attitude is Everything  ( PDFDrive ).pdf'[0m
+[01;32m'Autonomous (1).drawio'[0m
+ [01;32mAutonomous.drawio[0m
+ [01;32mAutonomy2.drawio[0m
+[01;32m'Averera Achievements.docx'[0m
+[01;32m'B3G4 (1).pbix'[0m
+ [01;32mBI_Section3_Assignment2_Group4.pbix[0m
+[01;32m'BollyFlix.Vip  The Forgotten Army (Azaadi Ke Liye) 2020 S01 Hindi AMZN Prime Web Series 720p HDRip.mkv'[0m[K
+ [01;32mBraveBrowserSetup.exe[0m
+ [01;32mCBS_PD_VI_-_Debater__Adjudicator_Manual.pdf[0m
+ [01;32mCertificate-Elements-Of-AI-Sara-Gupta.png[0m
+ [01;32mChime.4.39.10374.exe[0m
+[01;32m'Coursera- Neural Networks and Deep Learning by Andrew NG.pdf'[0m
+[01;32m'Covid Certificate.pdf'[0m
+[01;32m'Covid Vaccine Certificate.pdf'[0m
+ [34;42mCp-20220705T163047Z-001[0m
+ [01;32mCp-20220705T163047Z-001.zip[0m
+[01;32m'DATA SCIENCE-20220303T165852Z-001.zip'[0m
+[01;32m'DE SHAW.pdf'[0m
+ [01;32mDE_SHAW.pdf[0m
+[01;32m'DL RECEIPT.pdf'[0m
+[01;32m'DL SLOT ACKNOWLEDGEMENT.pdf'[0m
+[01;32m'DL Services Acknowledgement.pdf'[0m
+ [01;32mDL-20220303T170539Z-001.zip[0m
+[01;32m'DSC00067 (5).jpg'[0m
+[01;32m'Data & Telemetry Word Draft (1) (1).docx'[0m
+[01;32m'Data & Telemetry Word Draft (1).docx'[0m
+[01;32m'Data & Telemetry Word Draft.docx'[0m
+[01;32m'Data Vis.pbix'[0m
+[01;32m'Day 2 VSP (1).pdf'[0m
+[01;32m'Day 2 VSP (2).pdf'[0m
+[01;32m'Day 2 VSP.pdf'[0m
+ [34;42mDiwali-20220705T162731Z-001[0m
+ [01;32mDiwali-20220705T162731Z-001.zip[0m
+[01;32m'DocScanner Jul 2, 2022 12.06 AM.pdf'[0m
+ [01;32mDocument.docx[0m
+ [01;32mDocument.pdf[0m
+[01;32m'Documents - Shortcut.lnk'[0m
+[01;32m'Dolat Capital.pdf'[0m
+[01;32m'Downloads_Takeaway Assignment - R _ Python (3)_Takeaway Assignment - R _ Python_.html'[0m[K
+[34;42m'Downloads_Takeaway Assignment - R _ Python (3)_Takeaway Assignment - R _ Python__files'[0m[K
+[01;32m'Draft 11.pdf'[0m
+ [01;32mER_BIKES.png[0m
+[01;32m'EXCEL Assignment.xlsx'[0m
+[01;32m'Fee Receipt-20220303T182535Z-001.zip'[0m
+[01;32m'Fee details of Semester-I students 2021-22.pdf'[0m
+[01;32m'Final Date Sheet Cl. 1-8 Change(1).pdf'[0m
+[01;32m'Form-3-Internship Acceptance 2021-22.docx'[0m
+[01;32m"Freshers'.pdf"[0m
+ [01;32mGSP.pdf[0m
+ [01;32mGit-2.39.0-64-bit.exe[0m
+[01;32m'Gmail - Booking Confirmation on IRCTC, Train_ 22436, 07-Jun-2022, CC, CNB - BSB.pdf'[0m[K
+[01;32m'Gmail - Fwd_ Team AVERERA _ Pitch the Future 2022_ Congratulations, you are a finalist!.pdf'[0m[K
+[01;32m'Goldman Sachs_Engineering_Virtual_Program_completion_certificate.pdf'[0m
+[01;32m'Grade Report_2020_even.pdf'[0m
+[01;32m'Grade Report_2020_odd.pdf'[0m
+[01;32m'Grade Report_2021_even.pdf'[0m
+[01;32m'Grade Report_2021_odd.pdf'[0m
+ [01;32mGrammarly.html[0m
+ [34;42mGrammarly_files[0m
+[01;32m'Group dance DFZ Participation.pdf'[0m
+[34;42m'Gurjot phone-20220705T163704Z-001'[0m
+[01;32m'Gurjot phone-20220705T163704Z-001.zip'[0m
+ [01;32mHolidayshomework.pdf[0m
+[01;32m'Hostel(Academic) fee receipt.pdf'[0m
+[01;32m'IITBHU MAP.pdf'[0m
+ [01;32mIMG-20160819-WA0001.jpg[0m
+ [01;32mIMG-20220221-WA0134_2-1.jpg[0m
+ [01;32mIMG-20220221-WA0134_2.jpg[0m
+ [01;32mIMG20220424224445.jpg[0m
+ [01;32mIMG20220424233019.jpg[0m
+ [01;32mIMG20220424233035.jpg[0m
+ [01;32mIMG20220424233100.jpg[0m
+ [01;32mIMG20220424233122.jpg[0m
+ [01;32mIMG20220424234122.jpg[0m
+ [01;32mIMG20220503090750.jpg[0m
+ [01;32mIMG20220503091127.jpg[0m
+ [01;32mIMG20220503091145.jpg[0m
+ [01;32mIMG20220503091216.jpg[0m
+ [01;32mIMG_0925.HEIC[0m
+ [01;32mIMG_0926.HEIC[0m
+ [01;32mIMG_0927.HEIC[0m
+ [01;32mIMG_0929.HEIC[0m
+ [01;32mIMG_0930.HEIC[0m
+[01;32m'IMG_20190502_180224 (1).jpg'[0m
+[01;32m'IMG_20190502_180224 (2).jpg'[0m
+ [01;32mIMG_20190502_180224.jpg[0m
+ [01;32mIMG_20210830_140810.jpg[0m
+ [01;32mIMG_20220327_235917.jpg[0m
+ [01;32mIMG_20220406_023323.jpg[0m
+ [01;32mIMG_20220424_233110_005.jpg[0m
+ [01;32mIMG_20220424_233820_854.webp[0m
+ [01;32mIMG_20220424_233926_527.webp[0m
+ [01;32mIMG_20220502_021225.jpg.pdf[0m
+ [01;32mIMG_20220502_021352.jpg[0m
+[01;32m'IMG_20220503_090557 (1).jpg'[0m
+ [01;32mIMG_20220503_090557.jpg[0m
+ [01;32mIMG_20220503_100425.jpg[0m
+ [01;32mIMG_20220503_100507.jpg[0m
+ [01;32mIMG_20220503_100516.jpg[0m
+ [01;32mIMG_20220503_100655.jpg[0m
+ [01;32mIMG_20220503_100657.jpg[0m
+ [01;32mIMG_20220503_101658.jpg[0m
+ [01;32mIMG_20220503_102709.jpg[0m
+ [01;32mIMG_20220503_102714.jpg[0m
+ [01;32mIMG_20220503_102734.jpg[0m
+ [01;32mIMG_20220508_224654_028.webp[0m
+ [01;32mIMG_20220508_224715_893.webp[0m
+ [01;32mIMG_20220508_224726_303.webp[0m
+ [01;32mIMG_20220508_224747_709.webp[0m
+ [01;32mIMG_20220508_224800_020.webp[0m
+ [01;32mIMG_20220508_224809_898.webp[0m
+ [01;32mIMG_20220508_224817_561.webp[0m
+ [01;32mIMG_20220508_224829_002.webp[0m
+ [01;32mIMG_20220508_224847_471.webp[0m
+ [01;32mIMG_20220508_224911_794.webp[0m
+ [01;32mIMG_20220508_224924_856.webp[0m
+ [01;32mIMG_20220508_224939_343.webp[0m
+ [01;32mIMG_20220508_225143_690.webp[0m
+ [01;32mIMG_20220508_225158_361.webp[0m
+ [01;32mIMG_20220508_225210_415.webp[0m
+ [01;32mIMG_20220508_225229_125.webp[0m
+ [01;32mIMG_20220508_225437_484.webp[0m
+ [01;32mIMG_20220508_225829_262.webp[0m
+ [01;32mIMG_20220508_225848_283.webp[0m
+ [01;32mIMG_20220508_225908_220.webp[0m
+ [01;32mIMG_20220508_225926_155.webp[0m
+ [01;32mIMG_20220508_225940_885.webp[0m
+ [01;32mIMG_20220508_225952_078.webp[0m
+ [01;32mIMG_20220508_230009_200.webp[0m
+ [01;32mIMG_20220508_230022_526.webp[0m
+ [01;32mIMG_20220508_230049_712.webp[0m
+ [01;32mIMG_20220508_230100_580.webp[0m
+ [01;32mIMG_20220508_230130_192.webp[0m
+ [01;32mIMG_20220508_230140_480.webp[0m
+ [01;32mIMG_20220508_230311_270.webp[0m
+ [01;32mIMG_20220508_230322_956.webp[0m
+ [01;32mIMG_20220508_230339_829.webp[0m
+ [01;32mIMG_20220508_230356_308.webp[0m
+ [01;32mIMG_20220508_230410_451.webp[0m
+ [01;32mIMG_20220508_230417_491.webp[0m
+ [01;32mIMG_20220508_230500_179.webp[0m
+ [01;32mIMG_20220508_230525_966.webp[0m
+ [01;32mIMG_20220508_230537_075.webp[0m
+ [01;32mIMG_20220508_230558_936.webp[0m
+ [01;32mIMG_20220508_230610_500.webp[0m
+ [01;32mIMG_20220508_230637_507.webp[0m
+ [01;32mIMG_20220508_230656_789.webp[0m
+ [01;32mIMG_20220508_230718_576.webp[0m
+ [01;32mIMG_20220508_230737_306.webp[0m
+ [01;32mIMG_20220508_230749_954.webp[0m
+ [01;32mIMG_20220508_230811_284.webp[0m
+ [01;32mIMG_20220508_230827_791.webp[0m
+ [01;32mIMG_20220508_230927_834.webp[0m
+ [01;32mIMG_20220508_230940_253.webp[0m
+ [01;32mIMG_20220508_231015_125.webp[0m
+ [01;32mIMG_20220508_231033_250.webp[0m
+ [01;32mIMG_20220508_231045_086.webp[0m
+ [01;32mIMG_20220508_231114_498.webp[0m
+ [01;32mIMG_20220508_231128_540.webp[0m
+ [01;32mIMG_20220508_231438_362.webp[0m
+ [01;32mIMG_20220508_231648_219.webp[0m
+ [01;32mIMG_20220508_231659_755.webp[0m
+ [01;32mIMG_20220508_231738_792.webp[0m
+ [01;32mIMG_20220508_231749_952.webp[0m
+ [01;32mIMG_20220508_231836_616.webp[0m
+ [01;32mIMG_20220508_231859_294.webp[0m
+ [01;32mIMG_20220508_232055_009.webp[0m
+ [01;32mIMG_20220508_232212_453.webp[0m
+ [01;32mIMG_20220513_125952.jpg[0m
+ [01;32mIMG_20220513_130007.jpg[0m
+ [01;32mIMG_20220702_051956_Burst01.jpg[0m
+ [01;32mIMG_20220702_113903.jpg[0m
+ [01;32mIMG_20220702_113950.jpg[0m
+ [01;32mIMG_20220714_013622-min.jpg[0m
+ [01;32mIMG_20220714_013622.jpg[0m
+ [01;32mIMG_4368.HEIC[0m
+ [01;32mIMG_4370.HEIC[0m
+ [01;32mIMG_4373.HEIC[0m
+ [01;32mIMG_4378.HEIC[0m
+ [01;32mIMG_4381.HEIC[0m
+ [01;32mIMG_4382.HEIC[0m
+ [01;32mIMG_4383.HEIC[0m
+ [01;32mIMG_4384.HEIC[0m
+ [01;32mIMG_4389.HEIC[0m
+ [01;32mIMG_4391.MOV[0m
+ [01;32mIMG_4395.HEIC[0m
+ [01;32mIMG_4398.HEIC[0m
+ [01;32mIMG_4400.HEIC[0m
+ [01;32mIMG_4419.HEIC[0m
+ [01;32mIMG_4420.HEIC[0m
+ [01;32mIMG_4433.HEIC[0m
+ [01;32mIMG_4435.HEIC[0m
+ [01;32mIMG_4445.HEIC[0m
+[01;32m'IMG_4448 (1).HEIC'[0m
+ [01;32mIMG_4448.HEIC[0m
+ [01;32mIMG_4449.HEIC[0m
+ [01;32mIMG_4452.jpg[0m
+ [01;32mIMG_4453.jpg[0m
+ [01;32mIMG_4455.HEIC[0m
+ [01;32mIMG_4457.HEIC[0m
+ [01;32mIMG_4458.HEIC[0m
+ [01;32mIMG_4462.HEIC[0m
+ [01;32mIMG_4466.HEIC[0m
+ [01;32mIMG_4469.HEIC[0m
+ [01;32mIMG_4472.HEIC[0m
+ [01;32mIMG_4473.HEIC[0m
+ [01;32mIMG_4488.HEIC[0m
+ [01;32mIMG_4490.HEIC[0m
+ [01;32mIMG_4491.HEIC[0m
+ [01;32mIMG_4496.HEIC[0m
+ [01;32mIMG_4500.HEIC[0m
+ [01;32mIMG_4502.HEIC[0m
+ [01;32mIMG_4503.HEIC[0m
+ [01;32mIMG_4508.HEIC[0m
+ [01;32mIMG_4509.jpg[0m
+ [01;32mIMG_4511.HEIC[0m
+ [01;32mIMG_4512.HEIC[0m
+ [01;32mIMG_4513.HEIC[0m
+ [01;32mIMG_4514.HEIC[0m
+ [01;32mIMG_4515.HEIC[0m
+ [01;32mIMG_6175.HEIC[0m
+ [01;32mIMG_6176.HEIC[0m
+ [01;32mIMG_6177.HEIC[0m
+ [01;32mIMG_6180.HEIC[0m
+[01;32m'Install VALORANT.exe'[0m
+[01;32m'Invites List.pdf'[0m
+[34;42m'Iphone photos-20220705T163716Z-001'[0m
+[01;32m'Iphone photos-20220705T163716Z-001.zip'[0m
+[01;32m'JULT TEST 3.pdf'[0m
+[01;32m'JULY TEST 4.pdf'[0m
+ [01;32mKNP_MTY_06.xlsx[0m
+[01;32m'Knives Out (2019).mkv'[0m
+ [01;32mMINING-20220303T182610Z-001.zip[0m
+ [01;32mMajor.2022.1080p.V2-HD-CAMRip.HINDI.DUB.RajBet-Vegamovies.NL.mkv[0m
+[01;32m'Meet - igs-phbj-nzg - Google Chrome 2021-08-18 14-59-21.mp4'[0m
+[01;32m'Mess Fee Receipt.pdf'[0m
+[01;32m'Minor Subject List.pdf'[0m
+[01;32m'Module 2 (GitHub & Python packaging) - by Sarath .mp4'[0m
+[01;32m'MySQL installation.zip'[0m
+[01;32m'NEP-2020-updated-17.03.2021-vkd -final.pdf'[0m
+[01;32m'Off-Campus Intern Diary.pdf'[0m
+ [01;32mOff-Campus_SaraGupta.pdf[0m
+[01;32m'Offer Letter from IIT(BHU), Varanasi.pdf'[0m
+ [01;32mPOR.docx[0m
+ [01;32mPOR_Sara_Averera.pdf[0m
+ [01;32mPXL_20220721_165228369.jpg[0m
+ [01;32mPXL_20220721_165301185.jpg[0m
+ [01;32mPasswords_123_Full_Setup.rar[0m
+[01;32m'Photo from Sara Gupta.jpg'[0m
+ [01;32mPicsart_22-05-08_16-04-07-599.jpg[0m
+[01;32m'Pitch The Future - Student Connection Brief - Team AVERERA.pdf'[0m
+[01;32m'Pitch the Future 2022 Official Rules.pdf'[0m
+[01;32m'Placement updates.pdf'[0m
+ [34;42mPranav[0m
+[01;32m'Profile Registrtion Form.pdf'[0m
+[01;32m'Project Proposal 2021-22 - Autonomous Vehicle Development.pdf'[0m
+ [34;42mPy-DS-ML-Bootcamp-master[0m
+ [01;32mQA-Guidelines_v16.pdf[0m
+ [01;32mRESUME_Sara_Gupta_SDE.pdf[0m
+ [01;32mRegCard_btech_internship.pdf[0m
+ [01;32mRegCard_btech_internshipNew.pdf[0m
+ [01;32mRegCard_btech_internship_RoundOff.pdf[0m
+[01;32m'RegCard_btech_internship_SARA (1).pdf'[0m
+ [01;32mRegCard_btech_internship_SARA.pdf[0m
+[01;32m'RegCard_btech_internship_TODAY (1) (1).pdf'[0m
+[01;32m'RegCard_btech_internship_TODAY (1) (2).pdf'[0m
+[01;32m'RegCard_btech_internship_TODAY (1).pdf'[0m
+ [01;32mRegCard_btech_internship_TODAY.pdf[0m
+[01;32m'RegCard_btech_internship_final truncate.pdf'[0m
+[01;32m'S2I-final submission (1).docx'[0m
+[01;32m'S2I-final submission.docx'[0m
+ [01;32mSA2022_W1_Pokemon.csv[0m
+ [01;32mSA2022_W3.ipynb[0m
+ [01;32mSA2022_W4.ipynb[0m
+[01;32m'SARA SIGN (1).pdf'[0m
+[01;32m'SARA SIGN.pdf'[0m
+ [01;32mSARA.pdf[0m
+ [01;32mSDE-Final.pdf[0m
+ [01;32mSEM3.pdf[0m
+[01;32m'SQL ASSIGNMENT 1.pdf'[0m
+[01;32m'SQL ASSIGNMENT 2 (1).pdf'[0m
+[01;32m'SQL ASSIGNMENT 2.pdf'[0m
+[01;32m'SQL Interview Questions .pdf'[0m
+[01;32m'Sara (1).docx'[0m
+[01;32m'Sara APC.pdf'[0m
+[01;32m'Sara Gupta Resume old.pdf'[0m
+[01;32m'Sara VW intra (1).pdf'[0m
+[01;32m'Sara VW intra.docx'[0m
+[01;32m'Sara VW intra.pdf'[0m
+[01;32m'Sara VW21 (1).docx'[0m
+[01;32m'Sara VW21.docx'[0m
+[01;32m'Sara debate.docx'[0m
+[01;32m'Sara debate.pdf'[0m
+ [01;32mSara-20220302T212313Z-001.zip[0m
+ [01;32mSara-20220601T144137Z-001.zip[0m
+ [01;32mSara.docx[0m
+[01;32m'Sara_Gupta_Resume (1).pdf'[0m
+ [01;32mSara_Gupta_Resume.pdf[0m
+ [01;32mSara_Workshop_Technex[0m
+ [34;42mSaraaa-20220705T163610Z-001[0m
+ [01;32mSaraaa-20220705T163610Z-001.zip[0m
+[01;32m'Screenshot (124).png'[0m
+[01;32m'Screenshot (125).png'[0m
+ [01;32mScreenshot_20220501-204342_Teams.jpg[0m
+ [01;32mScreenshot_20220501-204450_Teams.jpg[0m
+ [01;32mScreenshot_20221215_090343.jpg[0m
+ [01;32mScreenshots-20220303T090252Z-001.zip[0m
+[01;32m'Search and Games.pdf'[0m
+ [01;32mSecureExamBrowserInstaller_1.4.5.msi[0m
+[01;32m'Self Declaration form for name change service.pdf'[0m
+[01;32m'Self Declaration form.pdf'[0m
+ [01;32mSoftware_developer_off.pdf[0m
+ [01;32mSparkARStudio_v141.msi[0m
+ [01;32mSummers_Hostel_Payment.pdf[0m
+[01;32m'TLO2949949 (1).pdf'[0m
+ [01;32mTLO2949949.pdf[0m
+ [01;32mTPC-20220303T182618Z-001.zip[0m
+[34;42m'Takeaway Assignment - R _ Python (3)'[0m
+[01;32m'Takeaway Assignment - R _ Python (3).zip'[0m
+[01;32m'Team AVERERA Pitch the Future.pdf'[0m
+[01;32m'Team AVERERA.pptx'[0m
+[01;32m'Teams_windows_x64 (1).exe'[0m
+ [01;32mTeams_windows_x64.exe[0m
+[34;42m'Telegram Desktop'[0m
+[01;32m'Test_vehicle_architecure_240422.drawio (1).pdf'[0m
+ [01;32mTest_vehicle_architecure_240422.drawio.pdf[0m
+ [01;32mThe+Client-Server+Model.pdf[0m
+[01;32m'The_Umbrella_Academy_S02_E01_WebRip_720p_Hindi_English_AAC_5_1_x264 (1).mkv'[0m[K
+ [01;32mThe_Umbrella_Academy_S02_E02_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E03_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E04_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E05_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E06_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E07_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E08_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E09_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mThe_Umbrella_Academy_S02_E10_WebRip_720p_Hindi_English_AAC_5_1_x264.mkv[0m
+ [01;32mTime_Table_Odd_Sem_22-23_updated.pdf[0m
+[01;32m'Using Predictive Analytics model to diagnose breast cnacer (1).docx'[0m
+ [01;32mVID20220503091250.mp4[0m
+ [01;32mVID_176000120_090246_015.mp4[0m
+ [01;32mVID_176030907_120357_125.mp4[0m
+ [01;32mVID_176040116_165636_809.mp4[0m
+ [01;32mVID_176040625_025837_876.mp4[0m
+ [01;32mVID_176041219_171955_981.mp4[0m
+ [01;32mVID_176050918_125426_618.mp4[0m
+ [01;32mVID_176130817_135019_439.mp4[0m
+ [01;32mVID_176140104_012452_546.mp4[0m
+ [01;32mVID_176150519_025649_130.mp4[0m
+ [01;32mVID_176331116_103920_405.mp4[0m
+ [01;32mVID_176380718_193923_915.mp4[0m
+ [01;32mVID_176390326_094214_207.mp4[0m
+[01;32m'VID_176400620_122347_833 (1).mp4'[0m
+ [01;32mVID_176400620_122347_833.mp4[0m
+ [01;32mVID_176410117_133834_397.mp4[0m
+[01;32m'VID_176500224_225350_384 (1).mp4'[0m
+ [01;32mVID_176500224_225350_384.mp4[0m
+ [01;32mVID_20220503_101301.mp4[0m
+ [01;32mVID_20220503_101612.mp4[0m
+ [01;32mVID_20220503_101736.mp4[0m
+ [01;32mVID_20220503_102148.mp4[0m
+[01;32m'VIrtual DL Sara Gupta.pdf'[0m
+[01;32m'VNS TICKET.pdf'[0m
+ [01;32mVSCodeUserSetup-x64-1.64.2.exe[0m
+ [01;32mWIE-Travel-Grant-Application-Form-1.docx[0m
+[01;32m'WhatsApp Image 2022-03-26 at 12.59.30 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.09 AM (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.09 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.11 AM (2).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.12 AM (2).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.14 AM (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.14 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.15 AM (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.15 AM (2).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.16 AM (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.13.16 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.24 AM (1) (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.24 AM (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.24 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.25 AM (1).jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.25 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.44 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-05-06 at 11.14.49 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-06-07 at 2.20.59 PM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-06-07 at 2.24.08 PM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-07-02 at 12.12.11 PM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-07-02 at 12.14.28 PM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-07-02 at 12.26.29 PM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-07-02 at 12.34.06 PM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-07-02 at 5.22.39 AM.jpeg'[0m
+[01;32m'WhatsApp Image 2022-08-11 at 2.17.42 PM.jpeg'[0m
+ [01;32mWhatsAppSetup.exe[0m
+ [01;32mYashvi_Bansal.pdf[0m
+ [01;32macad_course_btech_min_2018_19.xlsx[0m
+ [01;32macad_course_idd_min_2018_19.xlsx[0m
+ [01;32mallsensors_2020_2_130_70083.pdf[0m
+ [01;32mblog-application-django.zip[0m
+ [01;32mbluetooth-driver-5.0.1.1500-installer.exe[0m
+ [01;32mbluetooth-driver-5.0.1.1500-installer_aha-hk1.exe[0m
+ [01;32mbluetooth-driver-installer-1.0.0.151-installer.exe[0m
+ [01;32mbluetooth-driver-installer-1.0.0.151-installer_8DsY-i1.exe[0m
+ [01;32mcar_evaluation.csv[0m
+[01;32m'cllg daries1 lapver.mp4'[0m
+ [01;32mcollegeid.pdf[0m
+ [01;32mcourse_structure_idd_math_computing.pdf[0m
+ [01;32mdata.csv[0m
+ [01;32mdesktop.ini[0m
+ [01;32mf4c81e20c3d54c06afbc6183c2295921.mov[0m
+ [01;32mf6b8fd3692e541e5b3974e1cb0b8cce9.mov[0m
+[01;32m'fileInput (1).txt'[0m
+ [01;32mfileInput.txt[0m
+ [01;32mgsp_4th.pdf[0m
+ [01;32mhgyu.sql[0m
+ [34;42mimage-classification-2[0m
+ [01;32mimage-classification-2.zip[0m
+ [01;32mimgonline-com-ua-twotoone-4e1ETpCg2vZchNX.jpg[0m
+ [01;32minvite.ics[0m
+ [01;32mirctc.pdf[0m
+ [01;32mjuly_aug_fee_receipt.pdf[0m
+ [01;32mmetacharacters.pptx[0m
+[01;32m'mingw-get-setup (1).exe'[0m
+[01;32m'mingw-get-setup (2).exe'[0m
+ [01;32mmingw-get-setup.exe[0m
+ [01;32mmingw-get-setup.zip[0m
+ [01;32mmysql-8.4.0-winx64.msi[0m
+ [01;32mpath_man.npy[0m
+ [01;32mperception_task2_pdf1.pdf[0m
+ [01;32mpretrained_model.zip[0m
+ [01;32mpro.pbix[0m
+ [01;32mpycharm-community-2021.3.2.exe[0m
+ [01;32mrufus-3.18.exe[0m
+ [01;32mrustup-init.exe[0m
+[01;32m'salarySlip_224297_62022 (1).pdf'[0m
+ [01;32msalarySlip_224297_62022.pdf[0m
+ [01;32msample_submission.csv[0m
+ [34;42mshell-lesson-data[0m
+ [01;32mshell-lesson-data.zip[0m
+ [01;32mskkmdklf.mwb[0m
+ [01;32msnap.png[0m
+ [01;32mstarter_code.zip[0m
+ [01;32mvideo_20220503_101745.mp4[0m
+[01;32m'virtual-off-track-awards-rules-chapter-i (1) (1).pdf'[0m
+[01;32m'virtual-off-track-awards-rules-chapter-i (1).pdf'[0m
+ [01;32mvkG2zJIX_400x400.jpg[0m
+ [01;32mwebex.exe[0m
+ [01;32mxampp-windows-x64-8.1.12-0-VS16-installer.exe[0m
+[01;32m'~$ing Predictive Analytics model to diagnose breast cnacer (1).docx'[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads[00m$ cd shell-lesson-data/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data[00m$ l s -F 
+[?2004l[0m[34;42mshell-lesson-data[0m/
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data[00m$ p wd
+[?2004l/mnt/c/Users/hp/Downloads/shell-lesson-data
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data[00m$ l s
+[?2004l[0m[34;42mshell-lesson-data[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data[00m$ c d shell-lesson-data/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd exercise-data/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ ls
+[?2004l[0m[34;42malkanes[0m  [34;42manimal-counts[0m  [34;42mcreatures[0m  [01;32mnumbers.txt[0m  [34;42mproject[0m  [34;42mwriting[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ ls -F -a
+[?2004l[0m[34;42m.[0m/   [34;42malkanes[0m/        [34;42mcreatures[0m/    [34;42mproject[0m/
+[34;42m..[0m/  [34;42manimal-counts[0m/  [01;32mnumbers.txt[0m*  [34;42mwriting[0m/
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ ls -s ex[K[K[K[K[K[K[K[Kcd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data[00m$ l s -s exe[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc d ex[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc d shell-lesson-data/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ ls -s exercise-data/
+[?2004ltotal 0
+0 [0m[34;42malkanes[0m        0 [34;42mcreatures[0m    0 [34;42mproject[0m
+0 [34;42manimal-counts[0m  0 [01;32mnumbers.txt[0m  0 [34;42mwriting[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ ls -F /
+[?2004l[0m[01;36mbin[0m@   [01;34metc[0m/   [01;36mlib[0m@    [01;36mlibx32[0m@      [01;34mmnt[0m/   [01;34mroot[0m/  [01;34msnap[0m/  [30;42mtmp[0m/
+[01;34mboot[0m/  [01;34mhome[0m/  [01;36mlib32[0m@  [01;34mlost+found[0m/  [01;34mopt[0m/   [01;34mrun[0m/   [01;34msrv[0m/   [01;34musr[0m/
+[01;34mdev[0m/   [01;32minit[0m*  [01;36mlib64[0m@  [01;34mmedia[0m/       [01;34mproc[0m/  [01;36msbin[0m@  [01;34msys[0m/   [01;34mvar[0m/
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ ls
+[?2004l[0m[34;42mexercise-data[0m  [34;42mnorth-pacific-gyre[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd north-pacific-gyre/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ ls nor
+[?2004lls: cannot access 'nor': No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ ls norcd north-pacific-gyre/goo
+[?2004lbash: cd: north-pacific-gyre/goo: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ mkdir thesis2[Ks
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ ls -F
+[?2004l[0m[01;32mNENE01729A.txt[0m*  [01;32mNENE01812A.txt[0m*  [01;32mNENE01978B.txt[0m*  [01;32mNENE02043A.txt[0m*
+[01;32mNENE01729B.txt[0m*  [01;32mNENE01843A.txt[0m*  [01;32mNENE02018B.txt[0m*  [01;32mNENE02043B.txt[0m*
+[01;32mNENE01736A.txt[0m*  [01;32mNENE01843B.txt[0m*  [01;32mNENE02040A.txt[0m*  [01;32mgoodiff.sh[0m*
+[01;32mNENE01751A.txt[0m*  [01;32mNENE01971Z.txt[0m*  [01;32mNENE02040B.txt[0m*  [01;32mgoostats.sh[0m*
+[01;32mNENE01751B.txt[0m*  [01;32mNENE01978A.txt[0m*  [01;32mNENE02040Z.txt[0m*  [34;42mthesiss[0m/
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ cd wr[K[K..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd wri[K[K[K[K[K[Kls
+[?2004l[0m[34;42mexercise-data[0m  [34;42mnorth-pacific-gyre[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd north-pacific-gyre/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ cd wr[K[K[K[K[Kls
+[?2004l[0m[01;32mNENE01729A.txt[0m  [01;32mNENE01812A.txt[0m  [01;32mNENE01978B.txt[0m  [01;32mNENE02043A.txt[0m
+[01;32mNENE01729B.txt[0m  [01;32mNENE01843A.txt[0m  [01;32mNENE02018B.txt[0m  [01;32mNENE02043B.txt[0m
+[01;32mNENE01736A.txt[0m  [01;32mNENE01843B.txt[0m  [01;32mNENE02040A.txt[0m  [01;32mgoodiff.sh[0m
+[01;32mNENE01751A.txt[0m  [01;32mNENE01971Z.txt[0m  [01;32mNENE02040B.txt[0m  [01;32mgoostats.sh[0m
+[01;32mNENE01751B.txt[0m  [01;32mNENE01978A.txt[0m  [01;32mNENE02040Z.txt[0m  [34;42mthesiss[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd exercise-data/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ ls
+[?2004l[0m[34;42malkanes[0m  [34;42manimal-counts[0m  [34;42mcreatures[0m  [01;32mnumbers.txt[0m  [34;42mproject[0m  [34;42mwriting[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ ce[Kd writing/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ ls
+[?2004l[0m[01;32mLittleWomen.txt[0m  [01;32mhaiku.txt[0m  [01;32mtest1.txt[0m  [01;32mtest2.txt[0m  [34;42mthesis[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ ls -F thesis
+[?2004l[0m[01;32mquotation.txt[0m*
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ nano draft.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;31H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                    draft.txt                             [1;71H(B[m[40d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[40;57H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ mv thesis/draft.txt thesis/quotes ,txt[1Ptxt.txt[C
+[?2004lmv: cannot stat 'thesis/draft.txt': No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ cd thesis/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+[?2004l[0m[01;32mquotation.txt[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ mv the[K[K[Kquotation.txt quotes.tx t
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ cp quotes.txt w[Kquotatu[Kion.tx t
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+[?2004l[0m[01;32mquotation.txt[0m  [01;32mquotes.txt[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ tm quot[C[1P[1@r[C[C[C[C[C[C
+quotation.txt  quotes.txt     
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ rm quot
+quotation.txt  quotes.txt     
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ rm quotes.txt 
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+[?2004l[0m[01;32mquotation.txt[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ rm -i quotation.txt 
+[?2004lrm: remove regular file 'quotation.txt'? n
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing/thesis[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ mkdir backup
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cp creatures/[7mminotaur.dat creatures/unico[27m[7mr[27m[7mn.dat backup/[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cminotaur.dat creatures/unicorn.dat backup/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cd creatures/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ ls -F
+[?2004l[0m[01;32mbasilisk.dat[0m*  [01;32mminotaur.dat[0m*  [01;32municorn.dat[0m*
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ cd ...
+[?2004lbash: cd: ...: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cd alkanes/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ ls
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32mmethane.pdb[0m  [01;32mpentane.pdb[0m
+[01;32methane.pdb[0m  [01;32moctane.pdb[0m   [01;32mpropane.pdb[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ wc c[Kcubane.pdb
+[?2004l  20  156 1158 cubane.pdb
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ wc *.pdb
+[?2004l  20  156 1158 cubane.pdb
+  12   84  622 ethane.pdb
+   9   57  422 methane.pdb
+  30  246 1828 octane.pdb
+  21  165 1226 pentane.pdb
+  15  111  825 propane.pdb
+ 107  819 6081 total
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ wc -1 *.pdb > lengths,[K.txt
+[?2004lwc: invalid option -- '1'
+Try 'wc --help' for more information.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ wc -1 *.pdb > lengths.txt[1P[1@l
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ ls lengths.txt 
+[?2004l[0m[01;32mlengths.txt[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ cat lengths.txt 
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ sort -n lengths.txt 
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ sort -n lengths.txt | head -n 2
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ wc -;[Kl *.pdb 
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$  sort -n[C[K[K[K[K[K[K[K[Kwc -l *.pdb | sort -n | head -n 1 [A
+[?2004l   9 methane.pdb
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ ls *Z.txt
+[?2004lls: cannot access '*Z.txt': No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cd creatures/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ head -n 5 basilisk.dat minotaur.dat unicorn.dat 
+[?2004l==> basilisk.dat <==
+COMMON NAME: basilisk
+CLASSIFICATION: basiliscus vulgaris
+UPDATED: 1745-05-02
+CCCCAACGAG
+GAAACAGATC
+
+==> minotaur.dat <==
+COMMON NAME: minotaur
+CLASSIFICATION: bos hominus
+UPDATED: 1765-02-17
+CCCGAAGGAC
+CGACATCTCT
+
+==> unicorn.dat <==
+COMMON NAME: unicorn
+CLASSIFICATION: equus monoceros
+UPDATED: 1738-11-24
+AGCCGGGTCG
+CTTTACCTTA
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ for i in basilisk.dat mini[Kotaur.dat 
+[?2004l[?2004h> do 
+[?2004l[?2004h> echo $i
+[?2004l[?2004h> done
+[?2004lbasilisk.dat
+minotaur.dat
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ for tm[K in basilisk.dat 
+[?2004l[?2004h> do 
+[?2004l[?2004h> head -n 2 $t | tail -n 1
+[?2004l[?2004h> done
+[?2004lCLASSIFICATION: basiliscus vulgaris
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ do 
+[?2004lbash: syntax error near unexpected token `do'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ echo [K[K[K[K[Kfor f in *.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $t
+[?2004l[?2004h> head -n 100 $f[C[Cfor f in *.dat; do echo $t[C[Cdo [Kfor t in basilisk.dat ; do  head -n 2 $t | tail -n 1; done[C[Cdo [Kfor f in *.dat; do echo $t[C[C[12Phead -n 100 $ffor f in *.dat; do echo $t[C[C[12Phead -n 100 $f[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h> 
+[?2004l[?2004h> done
+[?2004lbasilisk.dat
+h: command not found
+basilisk.dat
+h: command not found
+basilisk.dat
+h: command not found
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ echo hello
+[?2004lhello
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ ls
+[?2004l[0m[34;42mexercise-data[0m  [34;42mnorth-pacific-gyre[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd north-pacific-gyre/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ for f in NENE0[K*A.txt NENE*B.txt
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $f
+[?2004l[?2004h> done
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data[00m$ cd exercise-data/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cd alkanes/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ nano middle.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;31H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                    middle.sh                             [1;71H(B[m[40d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[40;57H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;45H(B[0;7m*[71G(B[m[?12l[?25h[2dh[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25h(B[0;1m[34mhead[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 1[?25l[?12l[?25h5[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h o[?25l[?12l[?25hc[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hp[?25l[39d[K[?12l[?25h[2;20Hd[?25l[?12l[?25hb[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m|[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h t[?25l[?12l[?25ha[?25l[?12l[?25hi[?25l[?12l[?25h(B[0;1m[34mtail[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 5[?25l[40;15H    (B[0;7mM-D(B[m DOS Format    (B[0;7mM-A(B[m Append  [55G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel         (B[0;7mM-M(B[m Mac Format    (B[0;7mM-P(B[m Prepend       (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                           [39;30H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1K (B[0;7m[ Cancelled ](B[m[K[40;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[55G  (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2;34H[?25l[40;15H    (B[0;7mM-D(B[m DOS Format    (B[0;7mM-A(B[m Append  [55G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel         (B[0;7mM-M(B[m Mac Format    (B[0;7mM-P(B[m Prepend       (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                           [39;30H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;45H(B[0;7m [71G(B[m[39;29H(B[0;7m[ Wrote 1 line ](B[m[40;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[55G  (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2;34H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sh
+[?2004lATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ nano middle.sh 
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;30H(B[0;7m[ Reading... ](B[m[39;29H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                    middle.sh                             [1;71H(B[m[40d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[40;57H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[39d[K[40;15H    (B[0;7mM-D(B[m DOS Format    (B[0;7mM-A(B[m Append  [55G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel         (B[0;7mM-M(B[m Mac Format    (B[0;7mM-P(B[m Prepend       (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                           [39;30H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l(B[0;7msh (B[m[?12l[?25h[?25l(B[0;7msh (B[m[?12l[?25h[?25l   [1K (B[0;7m[ Cancelled ](B[m[K[40;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[55G  (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2d[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ nano middle.sh 
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;30H(B[0;7m[ Reading... ](B[m[39;29H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                    middle.sh                             [1;71H(B[m[40d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[40;57H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[1;45H(B[0;7m*[71G(B[m[?12l[?25h[2dhhead(B[0;1m[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5h[?25l[?12l[?25h(B[0;1m[34mhead[39m(B[m[1P[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h1[?25l[?12l[?25h5[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hc[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[39d[K[?12l[?25h[2;19H[?25l[?12l[?25hp[?25l[?12l[?25hd[?25l[?12l[?25hb[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h1[?25l[?12l[?25h5[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h" octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;10H[?25l[?12l[?25h[32m$[39m(B[m octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;11H[?25l[?12l[?25h(B[0;1m[31m$2[39m(B[m octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;12H[?25l[?12l[?25h [?25l[?12l[?25h[?25l [K[3d octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[2;13Hoctane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[3d[K[2;12H[?12l[?25h[?25l[?12l[?25h(B[0;1m[33m"$2"[39m(B[m octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;13H[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hc[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hp[?25l[?12l[?25hd[?25l[?12l[?25hb[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h  [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;14H[?25l[?12l[?25h" [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;15H[?25l[?12l[?25h[32m$[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;16H[?25l[?12l[?25h(B[0;1m[31m$1[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;17H[?25l[?12l[?25h(B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;18H[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h5[?25l[?12l[?25h[3d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[2;30H[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h "[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$3[39m(B[m[?25l[?12l[?25h(B[0;1m[33m"$3"[39m(B[m[?25l[40;15H    (B[0;7mM-D(B[m DOS Format    (B[0;7mM-A(B[m Append  [55G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel         (B[0;7mM-M(B[m Mac Format    (B[0;7mM-P(B[m Prepend       (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                           [39;30H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;45H(B[0;7m [71G(B[m[39;29H(B[0;7m[ Wrote 1 line ](B[m[40;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[55G  (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2;33H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sh pentane.pdb 15 5
+[?2004lATOM      9  H           1       1.324   0.350  -1.332  1.00  0.00
+ATOM     10  H           1       1.271   1.378   0.122  1.00  0.00
+ATOM     11  H           1      -0.074  -0.384   1.288  1.00  0.00
+ATOM     12  H           1      -0.048  -1.362  -0.205  1.00  0.00
+ATOM     13  H           1      -1.183   0.500  -1.412  1.00  0.00
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ ls
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32mlengths.txt[0m  [01;32mmiddle.sh[0m   [01;32mpentane.pdb[0m
+[01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data[00m$ cd writing/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ cat haiku.txt 
+[?2004lThe Tao that is seen
+Is not the true Tao, until
+You bring fresh toner.
+
+With searching comes loss
+and the presence of absence:
+"My Thesis" not found.
+
+Yesterday it worked
+Today it is not working
+Software is like that.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ grep not haiku.txt 
+[?2004lIs [01;31m[Knot[m[K the true Tao, until
+"My Thesis" [01;31m[Knot[m[K found.
+Today it is [01;31m[Knot[m[K working
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ grep -w "is not" haiku.txt 
+[?2004lToday it [01;31m[Kis not[m[K working
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ grep -n -w -v "the" haiku.txt 
+[?2004l[32m[K1[m[K[36m[K:[m[KThe Tao that is seen
+[32m[K3[m[K[36m[K:[m[KYou bring fresh toner.
+[32m[K4[m[K[36m[K:[m[K
+[32m[K5[m[K[36m[K:[m[KWith searching comes loss
+[32m[K7[m[K[36m[K:[m[K"My Thesis" not found.
+[32m[K8[m[K[36m[K:[m[K
+[32m[K9[m[K[36m[K:[m[KYesterday it worked
+[32m[K10[m[K[36m[K:[m[KToday it is not working
+[32m[K11[m[K[36m[K:[m[KSoftware is like that.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ grep -r yeasterday[C[C[C[1Psterday
+[?2004l[35m[KLittleWomen.txt[m[K[36m[K:[m[K"Yes, I did!  I told you I'd make you pay for being so cross [01;31m[Kyesterday[m[K,
+[35m[KLittleWomen.txt[m[K[36m[K:[m[KI made a 'pome' [01;31m[Kyesterday[m[K, when I was helping Hannah wash, and as
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K"I telegraphed to your mother [01;31m[Kyesterday[m[K, and Brooke answered she'd come
+[35m[KLittleWomen.txt[m[K[36m[K:[m[Koffice [01;31m[Kyesterday[m[K, for the doctor looked sober, and Hannah most took my
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K[01;31m[Kyesterday[m[K's failure by a grand success today, so she ordered the
+[35m[KLittleWomen.txt[m[K[36m[K:[m[Knot only shut, but locked, and [01;31m[Kyesterday[m[K's mud still adorned the steps.
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K"To New York.  I had a bright idea [01;31m[Kyesterday[m[K, and this is it.  You know
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K[01;31m[Kyesterday[m[K that I was buttoning Amy's pinafore, and pulling your hair
+[35m[KLittleWomen.txt[m[K[36m[K:[m[Kdaughter was true to the mother's teaching.  I told Mamma so [01;31m[Kyesterday[m[K,
+[35m[KLittleWomen.txt[m[K[36m[K:[m[Kjust as he is, and said [01;31m[Kyesterday[m[K that she thought poverty was a
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ f[Kgrep -E "^.o" haiku.txt 
+[?2004l[01;31m[KYo[m[Ku bring fresh toner.
+[01;31m[KTo[m[Kday it is not working
+[01;31m[KSo[m[Kftware is like that.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ find . -type d
+[?2004l.
+./thesis
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Downloads/shell-lesson-data/shell-lesson-data/exercise-data/writing[00m$ exit
+[?2004lexit
+
+Script done on 2024-06-17 17:16:37+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-06-17 17:49:11+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="73" LINES="41"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/my_project[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/my_project[00m$ exit
+[?2004lexit
+
+Script done on 2024-06-17 17:49:15+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-06-17 19:41:39+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="73" LINES="41"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ git clob[Kne  [7mgit@github.com:SaraGupta-TA/mle-training-repo.git[27mgit@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004lCloning into 'mle-training-repo'...
+The authenticity of host 'github.com (20.207.73.82)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh -vT gi[27m[7mt[27m[7m@github.com[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh -vT git@github.com
+[?2004lOpenSSH_8.9p1 Ubuntu-3ubuntu0.4, OpenSSL 3.0.2 15 Mar 2022
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 19: include /etc/ssh/ssh_config.d/*.conf matched no files
+debug1: /etc/ssh/ssh_config line 21: Applying options for *
+debug1: Connecting to github.com [20.207.73.82] port 22.
+debug1: Connection established.
+debug1: identity file /home/saragupta/.ssh/id_rsa type -1
+debug1: identity file /home/saragupta/.ssh/id_rsa-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa_sk type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa_sk-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519 type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519_sk type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519_sk-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_xmss type -1
+debug1: identity file /home/saragupta/.ssh/id_xmss-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_dsa type -1
+debug1: identity file /home/saragupta/.ssh/id_dsa-cert type -1
+debug1: Local version string SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.4
+debug1: Remote protocol version 2.0, remote software version babeld-8c248391
+debug1: compat_banner: no match: babeld-8c248391
+debug1: Authenticating to github.com:22 as 'git'
+debug1: load_hostkeys: fopen /home/saragupta/.ssh/known_hosts2: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts2: No such file or directory
+debug1: SSH2_MSG_KEXINIT sent
+debug1: SSH2_MSG_KEXINIT received
+debug1: kex: algorithm: curve25519-sha256
+debug1: kex: host key algorithm: ssh-ed25519
+debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: expecting SSH2_MSG_KEX_ECDH_REPLY
+debug1: SSH2_MSG_KEX_ECDH_REPLY received
+debug1: Server host key: ssh-ed25519 SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU
+debug1: load_hostkeys: fopen /home/saragupta/.ssh/known_hosts2: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts2: No such file or directory
+debug1: Host 'github.com' is known and matches the ED25519 host key.
+debug1: Found key in /home/saragupta/.ssh/known_hosts:1
+debug1: rekey out after 134217728 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug1: SSH2_MSG_NEWKEYS received
+debug1: rekey in after 134217728 blocks
+debug1: Will attempt key: /home/saragupta/.ssh/id_rsa 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ecdsa 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ecdsa_sk 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ed25519 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ed25519_sk 
+debug1: Will attempt key: /home/saragupta/.ssh/id_xmss 
+debug1: Will attempt key: /home/saragupta/.ssh/id_dsa 
+debug1: SSH2_MSG_EXT_INFO received
+debug1: kex_input_ext_info: server-sig-algs=<ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp256-cert-v01@openssh.com,sk-ssh-ed25519-cert-v01@openssh.com,sk-ecdsa-sha2-nistp256-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,ssh-ed25519,ecdsa-sha2-nistp521,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256,rsa-sha2-512,rsa-sha2-256,ssh-rsa>
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug1: Authentications that can continue: publickey
+debug1: Next authentication method: publickey
+debug1: Trying private key: /home/saragupta/.ssh/id_rsa
+debug1: Trying private key: /home/saragupta/.ssh/id_ecdsa
+debug1: Trying private key: /home/saragupta/.ssh/id_ecdsa_sk
+debug1: Trying private key: /home/saragupta/.ssh/id_ed25519
+debug1: Trying private key: /home/saragupta/.ssh/id_ed25519_sk
+debug1: Trying private key: /home/saragupta/.ssh/id_xmss
+debug1: Trying private key: /home/saragupta/.ssh/id_dsa
+debug1: No more authentication methods to try.
+git@github.com: Permission denied (publickey).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh -T git[27m[7m@[27m[7mgithub.com[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh -T git@github.com
+[?2004lgit@github.com: Permission denied (publickey).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh-keygen[27m[7m [27m[7m-t ed25519 -C "your_email@example.com"[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-keygen -t ed25519 -C "your_email@example.com"[C[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"".com"s.com"a.com"r.com"a.com"g.com"u.com"p.com"t.com"a.com"0.com"3.com"0.com"2.com"@.com"g.com"m.com"a.com"i.com"l.com"
+[?2004lGenerating public/private ed25519 key pair.
+Enter file in which to save the key (/home/saragupta/.ssh/id_ed25519): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/saragupta/.ssh/id_ed25519
+Your public key has been saved in /home/saragupta/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:u6FuFZQ5fJRuQR/0xl07cyJVODMXcCnaFK1fVCbYwBM saragupta0302@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|       . =o+EB*=O|
+|        * +.+BB*=|
+|       . + .*.BXo|
+|        . o. = .=|
+|        So    . .|
+|        ..     . |
+|       .o        |
+|      .. o       |
+|     oo .        |
++----[SHA256]-----+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7m$ eval "$([27m[7ms[27m[7msh-agent -s)"[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ $ eval "$(ssh-agent -s)"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ceval "$(ss[1P[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [Ceval "$(ssh[1P[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ 
+
+[?2004lAgent pid 154376
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh-add ~/[27m[7m.[27m[7mssh/id_ed25519[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-add ~/.ssh/id_ed25519
+[?2004lEnter passphrase for /home/saragupta/.ssh/id_ed25519: 
+Identity added: /home/saragupta/.ssh/id_ed25519 (saragupta0302@gmail.com)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-add ~/.ssh/id_ed25519[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ eval "$(ssh[3P-agent -s)"[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-keygen [Ct ed25519 -C "saragupta0302@gmail.com"[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [C[C[C -T git@github.com[K[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [C[C[C[C[CvT git@github.com[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ git clone git@github.com:SaraGupta-TA/mle-training-repo.git[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [6Pexit
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone git@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004lCloning into 'mle-training-repo'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mcat ~/.ssh[27m[7m/[27m[7mid_ed25519.pub[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cat ~/.ssh/id_ed25519.pub
+[?2004lssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGes50aYfF1cSbrJa2z59w8FbVo/bP5iKHMDOaioZ9fa saragupta0302@gmail.com
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cat ~/.ssh/id_ed25519.pub[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ git clone g[Ct@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004lCloning into 'mle-training-repo'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ls
+[?2004l[0m[34;42mmle-training-repo[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cd mle-training-repo/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ ls
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ git status
+[?2004lfatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ git clone [7mgit@github.com:SaraGupta-TA/mle-training-repo.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004lCloning into 'mle-training-repo'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ code .
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ git status
+[?2004lfatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ ls
+[?2004l[0m[34;42mmle-training-repo[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ cd mle-training-repo/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ ls
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ git status -u
+[?2004lOn branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ cd pr[K[K[K[Kd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd practice/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git clone [7mgit[27m[7m@[27m[7mgithub.com:SaraGupta-TA/practice_repo.git[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:SaraGupta-TA/practice_repo.git
+[?2004lCloning into 'practice_repo'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git satus[K[K[K[Ktatus
+[?2004lfatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git init
+[?2004lInitialized empty Git repository in /mnt/c/Users/hp/Desktop/practice/.git/
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mpractice_repo/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ g it add file.txt
+[?2004lfatal: pathspec 'file.txt' did not match any files
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ c [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl s
+[?2004l[0m[34;42mpractice_repo[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ c d practice_repo/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ ls
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ gt[Kit add file.txt
+[?2004lfatal: pathspec 'file.txt' did not match any files
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ gt[Kut [K[K[Kit add files.txt.txt 
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git add .
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git commit -m "commit messag3[Ke"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"I"n"i"t"i"a"l" "c"o"m"m"i"t"
+[?2004l[main (root-commit) 55d6316] Initial commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 files.txt
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git branch
+[?2004l[?1h=* [32mmain[m[m
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git branch new-branch
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git checkout new-branh[Kch
+[?2004lSwitched to branch 'new-branch'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git checkout -n[Kb new-feature
+[?2004lSwitched to a new branch 'new-feature'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git merch feature-branch
+[?2004lgit: 'merch' is not a git command. See 'git --help'.
+
+The most similar commands are
+	fetch
+	merge
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git rebase master
+[?2004lfatal: invalid upstream 'master'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git rebase master[1Pr[C[K[K[Kin
+[?2004lCurrent branch new-feature is up to date.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git remote add origin [7m https://github.com/libgit[27m[7m2[27m[7m/libgit2[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/libgit2/libgit2[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbase main[Kmote add origin  https://github.com/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m https://github.com/libgit[27m[7m2[27m[7m/libgit2[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/libgit2/libgit2
+[?2004lerror: remote origin already exists.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git fetch origin
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git pull origin main
+[?2004lfatal: couldn't find remote ref main
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push origin master
+[?2004lerror: src refspec master does not match any
+[31merror: failed to push some refs to 'github.com:SaraGupta-TA/practice_repo.git'
+[m[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push origin master[K[K[K[Kin
+[?2004lEnumerating objects: 3, done.
+Counting objects:  33% (1/3)Counting objects:  66% (2/3)Counting objects: 100% (3/3)Counting objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 217 bytes | 10.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:SaraGupta-TA/practice_repo.git
+ * [new branch]      main -> main
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git stash
+[?2004lNo local changes to save
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git stash apply
+[?2004lNo stash entries found.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ code .
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ code .git stash apply[K
+[?2004lSaved working directory and index state WIP on new-feature: 55d6316 Initial commit
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git stash[3Pcode .git stash[Kgit stash[3Pcode .git stash apply
+[?2004lOn branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   files.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git add .
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git status
+[?2004lOn branch new-feature
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   files.txt[m
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git lof[Kg
+[?2004l[?1h=[33mcommit 55d6316794d2b8f16080ad059468146d68b2ffe6[m[33m ([m[1;36mHEAD -> [m[1;32mnew-[m [33m[m[33m[m[1;36m[m[1;32mfeature[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mnew-branch[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Sara Gupta <saragupta0302&gmail.com>[m
+Date:   Mon Jun 17 21:05:43 2024 +0530[m
+[m
+    Initial commit[m
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git clean -f
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git diff
+[?2004l[?1h=[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git show Initial commit
+[?2004lfatal: ambiguous argument 'Initial': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git tag first
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push i[Korigin --tags
+[?2004lTotal 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:SaraGupta-TA/practice_repo.git
+ * [new tag]         first -> first
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git log
+[?2004l[?1h=[33mcommit 55d6316794d2b8f16080ad059468146d68b2ffe6[m[33m ([m[1;36mHEAD -> [m[1;32mnew-[m [33m[m[33m[m[1;36m[m[1;32mfeature[m[33m, [m[1;33mtag: first[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mnew-branch[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Sara Gupta <saragupta0302&gmail.com>[m
+Date:   Mon Jun 17 21:05:43 2024 +0530[m
+[m
+    Initial commit[m
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ code .
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git add .
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git status
+[?2004lOn branch new-feature
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   files.txt[m
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git commit
+[?2004lhint: Waiting for your editor to close the file... [K[new-feature a339bba] I am commiting
+ 1 file changed, 2 insertions(+)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push
+[?2004lfatal: The current branch new-feature has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin new-feature
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push --set-ipstream origin be[K[Knew-feta[K[Kature
+[?2004lerror: unknown option `set-ipstream'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --repo <repository>   repository
+    --all                 push all refs
+    --mirror              mirror all refs
+    -d, --delete          delete refs
+    --tags                push tags (can't be used with --all or --mirror)
+    -n, --dry-run         dry run
+    --porcelain           machine-readable output
+    -f, --force           force updates
+    --force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --force-if-includes   require remote updates to be integrated locally
+    --recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --thin                use thin pack
+    --receive-pack <receive-pack>
+                          receive pack program
+    --exec <receive-pack>
+                          receive pack program
+    -u, --set-upstream    set upstream for git pull/status
+    --progress            force progress reporting
+    --prune               prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --follow-tags         push missing but relevant tags
+    --signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --atomic              request atomic transaction on remote side
+    -o, --push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push --set-ipstream origin new-feature[1P[1@u
+[?2004lEnumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 277 bytes | 8.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'new-feature' on GitHub by visiting:[K
+remote:      https://github.com/SaraGupta-TA/practice_repo/pull/new/new-feature[K
+remote: 
+To github.com:SaraGupta-TA/practice_repo.git
+ * [new branch]      new-feature -> new-feature
+Branch 'new-feature' set up to track remote branch 'new-feature' from 'origin'.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git status
+[?2004lOn branch new-feature
+Your branch is up to date with 'origin/new-feature'.
+
+nothing to commit, working tree clean
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ [7m https://github.com/libgit2/libgit2[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/libgit2/libgit[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add README[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit remote show origin
+[?2004l* remote origin
+  Fetch URL: git@github.com:SaraGupta-TA/practice_repo.git
+  Push  URL: git@github.com:SaraGupta-TA/practice_repo.git
+  HEAD branch: main
+  Remote branches:
+    main        tracked
+    new-feature tracked
+  Local branches configured for 'git pull':
+    main        merges with remote main
+    new-feature merges with remote new-feature
+  Local refs configured for 'git push':
+    main        pushes to main        (local out of date)
+    new-feature pushes to new-feature (up to date)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git tags
+[?2004lgit: 'tags' is not a git command. See 'git --help'.
+
+The most similar commands are
+	stage
+	tag
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git tag
+[?2004l[?1h=first[m
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ exit
+[?2004lexit
+
+Script done on 2024-06-17 21:30:15+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-06-18 11:04:54+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="73" LINES="41"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ conda create -n <my_pr oject>
+[?2004lbash: syntax error near unexpected token `newline'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ conda create -n <my_project>[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmy_proj[1Pect[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lconda: command not found
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mbash <conda-installer-[27m[7mn[27m[7mame>-latest-Linux-x86_64.sh[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash <conda-installer-name>-latest-Linux-x86_64.sh
+[?2004lbash: conda-installer-name: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users[00m$ ls
+[?2004l[0m[01;36m'All Users'[0m   [01;34mDefault[0m  [01;36m'Default User'[0m   [34;42mPublic[0m   [01;32mdesktop.ini[0m   [34;42mhp[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users[00m$ cd hp
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ ls
+[?2004l [0m[01;32m2_LC-GSC.mp4[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+[01;32m'Coding-Python Assesment 1.ipynb'[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+ [01;32mKaggle.ipynb[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMicrosoft[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{d852f810-1afa-11ef-ae06-c83cb6f11cc8}.TM.blf[0m
+ [01;32mNTUSER.DAT{d852f810-1afa-11ef-ae06-c83cb6f11cc8}.TMContainer00000000000000000001.regtrans-ms[0m[K
+ [01;32mNTUSER.DAT{d852f810-1afa-11ef-ae06-c83cb6f11cc8}.TMContainer00000000000000000002.regtrans-ms[0m[K
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [01;32mPerception.ipynb[0m
+ [34;42mPictures[0m
+ [01;32mPokemon.ipynb[0m
+ [01;36mPrintHood[0m
+ [34;42mPycharmProjects[0m
+ [01;36mRecent[0m
+ [01;32mSA2022_W1_Pokemon.csv[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+ [01;36mTemplates[0m
+ [01;32mUntitled.ipynb[0m
+ [01;32mUntitled1.ipynb[0m
+ [34;42mVideos[0m
+[01;32m'Web Scrape Tiger.ipynb'[0m
+ [34;42manaconda3[0m
+ [01;32mdownload.tar.gz[0m
+ [01;32mhue.png[0m
+ [01;32mimage-classification-2.zip[0m
+ [34;42mkeras[0m
+ [01;32mmain.py[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+ [01;32mproducts.csv[0m
+ [01;32msat.png[0m
+ [34;42mseaborn-data[0m
+ [01;32mval.png[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd Desktop/
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mmkdir -p ~/miniconda3[27mmkdir -p ~/miniconda3
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mwget https://repo.anac[27m[7mo[27m[7mnda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/mini[27m[7mc[27m[7monda.sh[27m[A[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+[?2004l--2024-06-18 11:08:05--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.191.158, 104.16.32.241, 2606:4700::6810:20f1, ...
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.191.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143808873 (137M) [application/octet-stream]
+Saving to: ‘/home/saragupta/miniconda3/miniconda.sh’
+
+         /home/sar   0%[              ]       0  --.-KB/s                       /home/sara   3%[              ]   4.76M  23.8MB/s                      /home/sarag   9%[>             ]  12.60M  31.4MB/s                     /home/saragu  13%[>             ]  18.72M  31.1MB/s                    /home/saragup  19%[=>            ]  26.37M  32.9MB/s                   /home/saragupt  23%[==>           ]  32.76M  32.7MB/s                  /home/saragupta  29%[===>          ]  40.83M  34.0MB/s                 /home/saragupta/  36%[====>         ]  50.12M  35.7MB/s                /home/saragupta/m  43%[=====>        ]  60.08M  37.5MB/s               /home/saragupta/mi  48%[=====>        ]  66.81M  37.0MB/s               home/saragupta/min  52%[======>       ]  71.90M  35.4MB/s               ome/saragupta/mini  58%[=======>      ]  79.62M  35.6MB/s               me/saragupta/minic  61%[=======>      ]  84.55M  34.7MB/s               e/saragupta/minico  65%[========>     ]  89.32M  33.9MB/s               /saragupta/minicon  68%[========>     ]  94.26M  33.3MB/s               saragupta/minicond  72%[=========>    ]  99.03M  32.6MB/s    eta 1s     aragupta/miniconda  75%[=========>    ] 104.04M  32.2MB/s    eta 1s     ragupta/miniconda3  79%[==========>   ] 109.35M  31.8MB/s    eta 1s     agupta/miniconda3/  83%[==========>   ] 114.44M  31.3MB/s    eta 1s     gupta/miniconda3/m  87%[===========>  ] 119.78M  30.6MB/s    eta 1s     upta/miniconda3/mi  90%[===========>  ] 124.78M  30.2MB/s    eta 0s     pta/miniconda3/min  94%[============> ] 129.54M  29.6MB/s    eta 0s     ta/miniconda3/mini  98%[============> ] 134.53M  28.8MB/s    eta 0s     /home/saragupta/mi 100%[=============>] 137.15M  27.8MB/s    in 4.6s    
+
+2024-06-18 11:08:10 (30.1 MB/s) - ‘/home/saragupta/miniconda3/miniconda.sh’ saved [143808873/143808873]
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mbash ~/miniconda3/mini[27m[7mc[27m[7monda.sh -b -u -p ~/miniconda3[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+[?2004lPREFIX=/home/saragupta/miniconda3
+Unpacking payload ...
+
+Installing base environment...
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+installation finished.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mrm -rf ~/miniconda3/mi[27m[7mn[27m[7miconda.sh[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ rm -rf ~/miniconda3/miniconda.sh
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7m~/miniconda3/bin/conda[27m[7m [27m[7minit bash[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ ~/miniconda3/bin/conda init bash
+[?2004lno change     /home/saragupta/miniconda3/condabin/conda
+no change     /home/saragupta/miniconda3/bin/conda
+no change     /home/saragupta/miniconda3/bin/conda-env
+no change     /home/saragupta/miniconda3/bin/activate
+no change     /home/saragupta/miniconda3/bin/deactivate
+no change     /home/saragupta/miniconda3/etc/profile.d/conda.sh
+no change     /home/saragupta/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/saragupta/miniconda3/shell/condabin/Conda.psm1
+no change     /home/saragupta/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/saragupta/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/saragupta/miniconda3/etc/profile.d/conda.csh
+modified      /home/saragupta/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mbash <conda-installer-[27m[7mn[27m[7mame>-latest-Linux-x86_64.sh[27m[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash <conda-installer-name>-latest-Linux-x86_64.sh
+[?2004lbash: conda-installer-name: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7msha256sum filename[27msha256sum filename
+[?2004lsha256sum: filename: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ sha256sum filenamebash <conda-installer-name>-latest-Linux-x86_64.sh[C[1P-latest-Linux-x86_64.sh[C[C[C[C[1P-latest-Linux-x86_64.sh[C[C[C[1P-latest-Linux-x86_64.sh[C[C[1P-latest-Linux-x86_64.sh[C[1P-latest-Linux-x86_64.sh[1Platest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-la[1Ptest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-lat[1Pest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-late[1Pst-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-lates[1Pt-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest[1P-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-[1PLinux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-L[1Pinux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-Li[1Pnux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C-latest-Lin[1Pux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[Clatest-Linu[1Px-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C-latest-Linux[1P-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C-latest-Linux-[1Px86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C-latest-Linux-x[1P86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C-latest-Linux-x8[1P6_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C-latest-Linux-x86[1P_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C-latest-Linux-x86_[1P64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C-latest-Linux-x86_6[1P4.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C -latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[CM-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[Ci-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[Cn-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[Ci-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[Cc-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[Co-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[Cn-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cd-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Ca-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C3-latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-[1PLinux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lbash: Miniconda3-latest-Linux-x86_64.sh: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash Miniconda3-latest-Linux-x86_64.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -latest-Linux-x86_64.sh[A]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lbash: Miniconda3: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$  cd.. 
+[?2004lcd..: command not found
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c[00m$ ls
+[?2004lls: cannot access 'DumpStack.log.tmp': Permission denied
+ls: cannot access 'hiberfil.sys': Permission denied
+ls: cannot access 'pagefile.sys': Permission denied
+ls: cannot access 'swapfile.sys': Permission denied
+[0m[01;34m'$MfeDeepRem'[0m             [01;34m'Program Files'[0m               [01;34mWindows[0m
+[34;42m'$Recycle.Bin'[0m            [01;34m'Program Files (x86)'[0m         [01;32mdism.log[0m
+[01;34m'$WinREAgent'[0m              [34;42mProgramData[0m                  hiberfil.sys
+[01;36m'Documents and Settings'[0m   [01;34mRecovery[0m                     [34;42mhp[0m
+ DumpStack.log.tmp        [34;42m'Riot Games'[0m                  [34;42mhpswsetup[0m
+ [01;34mMSOCache[0m                  [34;42mSWSetup[0m                      pagefile.sys
+ [34;42mMinGW[0m                    [01;34m'System Volume Information'[0m   swapfile.sys
+ [34;42mOneDriveTemp[0m              [40;31;01mSystem.sav[0m                   [34;42mxampp[0m
+ [01;34mPerfLogs[0m                  [01;34mUsers[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ ls
+[?2004l[0m[34;42mc[0m  [30;42mwsl[0m  [30;42mwslg[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ [K]0;saragupta@LAPTOP-VBSP7VB8: /mnt[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ cd wsl
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wsl[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/wsl[00m$ ls
+[?2004lresolv.conf
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wsl[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/wsl[00m$ cd ..
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ wslgcwslgdwslg wslg
+[?2004l[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wslg[01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/wslg[00m$ ls
+[?2004l[0m[01;35mPulseAudioRDPSink[0m    [01;34mdistro[0m  pulseaudio.log  stderr.log    wlog.log
+[01;35mPulseAudioRDPSource[0m  [01;34mdoc[0m     [01;34mrun[0m             versions.txt
+[01;35mPulseServer[0m          [34;42mdumps[0m   [01;34mruntime-dir[0m     weston.log
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wslg

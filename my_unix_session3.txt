@@ -1,0 +1,250 @@
+Script started on 2024-06-18 11:04:54+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="73" LINES="41"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ conda create -n <my_pr 
+oject>
+[?2004l
+bash: syntax error near unexpected token `newline'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ conda create -n <my_project>[K
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmy_proj[1Pect[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l
+conda: command not found
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mbash <conda-installer-[27m[7mn[27m[7mame>-latest-Linux-x86_64.sh[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash <conda-installer-name>-latest-Linux-x86_64.sh
+[?2004l
+bash: conda-installer-name: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users[00m$ ls
+[?2004l
+[0m[01;36m'All Users'[0m   [01;34mDefault[0m  [01;36m'Default User'[0m   [34;42mPublic[0m   [01;32mdesktop.ini[0m   [34;42mhp[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users[00m$ cd hp
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ ls
+[?2004l
+ [0m[01;32m2_LC-GSC.mp4[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+[01;32m'Coding-Python Assesment 1.ipynb'[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+ [01;32mKaggle.ipynb[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMicrosoft[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{d852f810-1afa-11ef-ae06-c83cb6f11cc8}.TM.blf[0m
+ [01;32mNTUSER.DAT{d852f810-1afa-11ef-ae06-c83cb6f11cc8}.TMContainer00000000000000000001.regtrans-ms[0m[K
+ [01;32mNTUSER.DAT{d852f810-1afa-11ef-ae06-c83cb6f11cc8}.TMContainer00000000000000000002.regtrans-ms[0m[K
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [01;32mPerception.ipynb[0m
+ [34;42mPictures[0m
+ [01;32mPokemon.ipynb[0m
+ [01;36mPrintHood[0m
+ [34;42mPycharmProjects[0m
+ [01;36mRecent[0m
+ [01;32mSA2022_W1_Pokemon.csv[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+ [01;36mTemplates[0m
+ [01;32mUntitled.ipynb[0m
+ [01;32mUntitled1.ipynb[0m
+ [34;42mVideos[0m
+[01;32m'Web Scrape Tiger.ipynb'[0m
+ [34;42manaconda3[0m
+ [01;32mdownload.tar.gz[0m
+ [01;32mhue.png[0m
+ [01;32mimage-classification-2.zip[0m
+ [34;42mkeras[0m
+ [01;32mmain.py[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+ [01;32mproducts.csv[0m
+ [01;32msat.png[0m
+ [34;42mseaborn-data[0m
+ [01;32mval.png[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd Desktop/
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mmkdir -p ~/miniconda3[27mmkdir -p ~/miniconda3
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mwget https://repo.anac[27m[7mo[27m[7mnda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/mini[27m[7mc[27m[7monda.sh[27m[A[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+[?2004l
+--2024-06-18 11:08:05--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.191.158, 104.16.32.241, 2606:4700::6810:20f1, ...
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.191.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143808873 (137M) [application/octet-stream]
+Saving to: ‘/home/saragupta/miniconda3/miniconda.sh’
+
+
+         /home/sar   0%[              ]       0  --.-KB/s               
+        /home/sara   3%[              ]   4.76M  23.8MB/s               
+       /home/sarag   9%[>             ]  12.60M  31.4MB/s               
+      /home/saragu  13%[>             ]  18.72M  31.1MB/s               
+     /home/saragup  19%[=>            ]  26.37M  32.9MB/s               
+    /home/saragupt  23%[==>           ]  32.76M  32.7MB/s               
+   /home/saragupta  29%[===>          ]  40.83M  34.0MB/s               
+  /home/saragupta/  36%[====>         ]  50.12M  35.7MB/s               
+ /home/saragupta/m  43%[=====>        ]  60.08M  37.5MB/s               
+/home/saragupta/mi  48%[=====>        ]  66.81M  37.0MB/s               
+home/saragupta/min  52%[======>       ]  71.90M  35.4MB/s               
+ome/saragupta/mini  58%[=======>      ]  79.62M  35.6MB/s               
+me/saragupta/minic  61%[=======>      ]  84.55M  34.7MB/s               
+e/saragupta/minico  65%[========>     ]  89.32M  33.9MB/s               
+/saragupta/minicon  68%[========>     ]  94.26M  33.3MB/s               
+saragupta/minicond  72%[=========>    ]  99.03M  32.6MB/s    eta 1s     
+aragupta/miniconda  75%[=========>    ] 104.04M  32.2MB/s    eta 1s     
+ragupta/miniconda3  79%[==========>   ] 109.35M  31.8MB/s    eta 1s     
+agupta/miniconda3/  83%[==========>   ] 114.44M  31.3MB/s    eta 1s     
+gupta/miniconda3/m  87%[===========>  ] 119.78M  30.6MB/s    eta 1s     
+upta/miniconda3/mi  90%[===========>  ] 124.78M  30.2MB/s    eta 0s     
+pta/miniconda3/min  94%[============> ] 129.54M  29.6MB/s    eta 0s     
+ta/miniconda3/mini  98%[============> ] 134.53M  28.8MB/s    eta 0s     
+/home/saragupta/mi 100%[=============>] 137.15M  27.8MB/s    in 4.6s    
+
+2024-06-18 11:08:10 (30.1 MB/s) - ‘/home/saragupta/miniconda3/miniconda.sh’ saved [143808873/143808873]
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mbash ~/miniconda3/mini[27m[7mc[27m[7monda.sh -b -u -p ~/miniconda3[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+[?2004l
+PREFIX=/home/saragupta/miniconda3
+Unpacking payload ...
+
+Installing base environment...
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+installation finished.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mrm -rf ~/miniconda3/mi[27m[7mn[27m[7miconda.sh[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ rm -rf ~/miniconda3/miniconda.sh
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7m~/miniconda3/bin/conda[27m[7m [27m[7minit bash[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ ~/miniconda3/bin/conda init bash
+[?2004l
+no change     /home/saragupta/miniconda3/condabin/conda
+no change     /home/saragupta/miniconda3/bin/conda
+no change     /home/saragupta/miniconda3/bin/conda-env
+no change     /home/saragupta/miniconda3/bin/activate
+no change     /home/saragupta/miniconda3/bin/deactivate
+no change     /home/saragupta/miniconda3/etc/profile.d/conda.sh
+no change     /home/saragupta/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/saragupta/miniconda3/shell/condabin/Conda.psm1
+no change     /home/saragupta/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/saragupta/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/saragupta/miniconda3/etc/profile.d/conda.csh
+modified      /home/saragupta/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7mbash <conda-installer-[27m[7mn[27m[7mame>-latest-Linux-x86_64.sh[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash <conda-installer-name>-latest-Linux-x86_64.sh
+[?2004l
+bash: conda-installer-name: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [7msha256sum filename[27msha256sum filename
+[?2004l
+sha256sum: filename: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ sha256sum filenamebash <conda-installer-name>-latest-Linux-x86_64.sh[C[1P-latest-Linux-x86_64.sh
+[C[C[C[C[1P-latest-Linux-x86_64.sh
+[C[C[C[1P-latest-Linux-x86_64.sh
+[C[C[1P-latest-Linux-x86_64.sh
+[C
+[1P-latest-Linux-x86_64.sh
+[1Platest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-la[1Ptest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-lat[1Pest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-late[1Pst-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-lates[1Pt-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest[1P-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-[1PLinux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-L[1Pinux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-Li[1Pnux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C-latest-Lin[1Pux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[Clatest-Linu[1Px-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C-latest-Linux[1P-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C-latest-Linux-[1Px86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C-latest-Linux-x[1P86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C-latest-Linux-x8[1P6_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C-latest-Linux-x86[1P_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C-latest-Linux-x86_[1P64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C-latest-Linux-x86_6[1P4.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C -latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[CM-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[Ci-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[Cn-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[Ci-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[Cc-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[Co-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[Cn-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cd-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Ca-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C3-latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-latest-[1PLinux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l
+bash: Miniconda3-latest-Linux-x86_64.sh: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ bash Miniconda3-latest-Linux-x86_64.sh
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -latest-Linux-x86_64.sh[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l
+bash: Miniconda3: No such file or directory
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$  cd.. 
+[?2004l
+cd..: command not found
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c[00m$ ls
+[?2004l
+ls: cannot access 'DumpStack.log.tmp': Permission denied
+ls: cannot access 'hiberfil.sys': Permission denied
+ls: cannot access 'pagefile.sys': Permission denied
+ls: cannot access 'swapfile.sys': Permission denied
+[0m[01;34m'$MfeDeepRem'[0m             [01;34m'Program Files'[0m               [01;34mWindows[0m
+[34;42m'$Recycle.Bin'[0m            [01;34m'Program Files (x86)'[0m         [01;32mdism.log[0m
+[01;34m'$WinREAgent'[0m              [34;42mProgramData[0m                  hiberfil.sys
+[01;36m'Documents and Settings'[0m   [01;34mRecovery[0m                     [34;42mhp[0m
+ DumpStack.log.tmp        [34;42m'Riot Games'[0m                  [34;42mhpswsetup[0m
+ [01;34mMSOCache[0m                  [34;42mSWSetup[0m                      pagefile.sys
+ [34;42mMinGW[0m                    [01;34m'System Volume Information'[0m   swapfile.sys
+ [34;42mOneDriveTemp[0m              [40;31;01mSystem.sav[0m                   [34;42mxampp[0m
+ [01;34mPerfLogs[0m                  [01;34mUsers[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ ls
+[?2004l
+[0m[34;42mc[0m  [30;42mwsl[0m  [30;42mwslg[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ cd wsl
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wsl [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/wsl[00m$ ls
+[?2004l
+resolv.conf
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wsl [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/wsl[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt[00m$ wslg  cwslgdwslg wslg
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wslg [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/wslg[00m$ ls
+[?2004l
+[0m[01;35mPulseAudioRDPSink[0m    [01;34mdistro[0m  pulseaudio.log  stderr.log    wlog.log
+[01;35mPulseAudioRDPSource[0m  [01;34mdoc[0m     [01;34mrun[0m             versions.txt
+[01;35mPulseServer[0m          [34;42mdumps[0m   [01;34mruntime-dir[0m     weston.log
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/wslg

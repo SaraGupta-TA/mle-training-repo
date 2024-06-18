@@ -1,0 +1,514 @@
+Script started on 2024-06-17 19:41:39+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="73" LINES="41"]
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ git clob[Kne  
+[7mgit@github.com:SaraGupta-TA/mle-training-repo.git[27m
+git@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004l
+Cloning into 'mle-training-repo'...
+
+The authenticity of host 'github.com (20.207.73.82)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh -vT gi[27m[7mt[27m[7m@github.com[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh -vT git@github.com
+[?2004l
+OpenSSH_8.9p1 Ubuntu-3ubuntu0.4, OpenSSL 3.0.2 15 Mar 2022
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 19: include /etc/ssh/ssh_config.d/*.conf matched no files
+debug1: /etc/ssh/ssh_config line 21: Applying options for *
+debug1: Connecting to github.com [20.207.73.82] port 22.
+debug1: Connection established.
+debug1: identity file /home/saragupta/.ssh/id_rsa type -1
+debug1: identity file /home/saragupta/.ssh/id_rsa-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa_sk type -1
+debug1: identity file /home/saragupta/.ssh/id_ecdsa_sk-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519 type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519_sk type -1
+debug1: identity file /home/saragupta/.ssh/id_ed25519_sk-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_xmss type -1
+debug1: identity file /home/saragupta/.ssh/id_xmss-cert type -1
+debug1: identity file /home/saragupta/.ssh/id_dsa type -1
+debug1: identity file /home/saragupta/.ssh/id_dsa-cert type -1
+debug1: Local version string SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.4
+debug1: Remote protocol version 2.0, remote software version babeld-8c248391
+debug1: compat_banner: no match: babeld-8c248391
+debug1: Authenticating to github.com:22 as 'git'
+debug1: load_hostkeys: fopen /home/saragupta/.ssh/known_hosts2: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts2: No such file or directory
+debug1: SSH2_MSG_KEXINIT sent
+debug1: SSH2_MSG_KEXINIT received
+debug1: kex: algorithm: curve25519-sha256
+debug1: kex: host key algorithm: ssh-ed25519
+debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: expecting SSH2_MSG_KEX_ECDH_REPLY
+debug1: SSH2_MSG_KEX_ECDH_REPLY received
+debug1: Server host key: ssh-ed25519 SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU
+debug1: load_hostkeys: fopen /home/saragupta/.ssh/known_hosts2: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts2: No such file or directory
+debug1: Host 'github.com' is known and matches the ED25519 host key.
+debug1: Found key in /home/saragupta/.ssh/known_hosts:1
+debug1: rekey out after 134217728 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug1: SSH2_MSG_NEWKEYS received
+debug1: rekey in after 134217728 blocks
+debug1: Will attempt key: /home/saragupta/.ssh/id_rsa 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ecdsa 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ecdsa_sk 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ed25519 
+debug1: Will attempt key: /home/saragupta/.ssh/id_ed25519_sk 
+debug1: Will attempt key: /home/saragupta/.ssh/id_xmss 
+debug1: Will attempt key: /home/saragupta/.ssh/id_dsa 
+debug1: SSH2_MSG_EXT_INFO received
+debug1: kex_input_ext_info: server-sig-algs=<ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp256-cert-v01@openssh.com,sk-ssh-ed25519-cert-v01@openssh.com,sk-ecdsa-sha2-nistp256-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,ssh-ed25519,ecdsa-sha2-nistp521,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256,rsa-sha2-512,rsa-sha2-256,ssh-rsa>
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug1: Authentications that can continue: publickey
+debug1: Next authentication method: publickey
+debug1: Trying private key: /home/saragupta/.ssh/id_rsa
+debug1: Trying private key: /home/saragupta/.ssh/id_ecdsa
+debug1: Trying private key: /home/saragupta/.ssh/id_ecdsa_sk
+debug1: Trying private key: /home/saragupta/.ssh/id_ed25519
+debug1: Trying private key: /home/saragupta/.ssh/id_ed25519_sk
+debug1: Trying private key: /home/saragupta/.ssh/id_xmss
+debug1: Trying private key: /home/saragupta/.ssh/id_dsa
+debug1: No more authentication methods to try.
+git@github.com: Permission denied (publickey).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh -T git[27m[7m@[27m[7mgithub.com[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh -T git@github.com
+[?2004l
+git@github.com: Permission denied (publickey).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh-keygen[27m[7m [27m[7m-t ed25519 -C "your_email@example.com"[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-keygen -t ed25519 -C "your_email@example.com"[C[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"".com"s.com"a.com"r.com"a.com"g.com"u.com"p.com"t.com"a.com"0.com"3.com"0.com"2.com"@.com"g.com"m.com"a.com"i.com"l.com"
+[?2004l
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/home/saragupta/.ssh/id_ed25519): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/saragupta/.ssh/id_ed25519
+Your public key has been saved in /home/saragupta/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:u6FuFZQ5fJRuQR/0xl07cyJVODMXcCnaFK1fVCbYwBM saragupta0302@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|       . =o+EB*=O|
+|        * +.+BB*=|
+|       . + .*.BXo|
+|        . o. = .=|
+|        So    . .|
+|        ..     . |
+|       .o        |
+|      .. o       |
+|     oo .        |
++----[SHA256]-----+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7m$ eval "$([27m[7ms[27m[7msh-agent -s)"[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ $ eval "$(ssh-agent -s)"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ceval "$(ss[1P[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [Ceval "$(ssh[1P[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$  
+
+[?2004l
+Agent pid 154376
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mssh-add ~/[27m[7m.[27m[7mssh/id_ed25519[27m [A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-add ~/.ssh/id_ed25519
+[?2004l
+Enter passphrase for /home/saragupta/.ssh/id_ed25519: 
+Identity added: /home/saragupta/.ssh/id_ed25519 (saragupta0302@gmail.com)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-add ~/.ssh/id_ed25519[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ eval "$(ssh[3P-agent -s)"[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ssh-keygen [Ct ed25519 -C "saragupta0302@gmail.com"[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [C[C[C -T git@github.com[K[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [C[C[C[C[CvT git@github.com[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ git clone git@github.com:SaraGupta-TA/mle-training-repo.git[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [6Pexit
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone git@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004l
+Cloning into 'mle-training-repo'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ [7mcat ~/.ssh[27m[7m/[27m[7mid_ed25519.pub[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cat ~/.ssh/id_ed25519.pub
+[?2004l
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGes50aYfF1cSbrJa2z59w8FbVo/bP5iKHMDOaioZ9fa saragupta0302@gmail.com
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cat ~/.ssh/id_ed25519.pub[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ git clone g[Ct@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004l
+Cloning into 'mle-training-repo'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ ls
+[?2004l
+[0m[34;42mmle-training-repo[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cd mle-training-repo/
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ ls
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ git status
+[?2004l
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ git clone [7mgit@github.com:SaraGupta-TA/mle-training-repo.git[27m
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:SaraGupta-TA/mle-training-repo.git
+[?2004l
+Cloning into 'mle-training-repo'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ code .
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ git status
+[?2004l
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ ls
+[?2004l
+[0m[34;42mmle-training-repo[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ cd mle-training-repo/
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ ls
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ git status
+[?2004l
+On branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ git status -u
+[?2004l
+On branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo/mle-training-repo[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training/mle-training-repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training/mle-training-repo[00m$ cd pr  [K[K[K[Kd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/ml-training [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/ml-training[00m$ cd ..
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop[00m$ cd practice/
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git clone [7mgit[27m[7m@[27m[7mgithub.com:SaraGupta-TA/practice_repo.git[27m[A
+]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:SaraGupta-TA/practice_repo.git
+[?2004l
+Cloning into 'practice_repo'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git satus[K[K[K[Ktatus
+[?2004l
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git init
+[?2004l
+Initialized empty Git repository in /mnt/c/Users/hp/Desktop/practice/.git/
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ git status
+[?2004l
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mpractice_repo/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ 
+[K]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ g 
+it add file.txt
+[?2004l
+fatal: pathspec 'file.txt' did not match any files
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ c 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl 
+s
+[?2004l
+[0m[34;42mpractice_repo[0m
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice[00m$ c 
+d practice_repo/
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ ls
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ gt[Kit add file.txt
+[?2004l
+fatal: pathspec 'file.txt' did not match any files
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ gt[Kut [K[K[Kit add files.txt.txt 
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git add .
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git commit -m "commit messag3[Ke"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"I"n"i"t"i"a"l" "c"o"m"m"i"t"
+[?2004l
+[main (root-commit) 55d6316] Initial commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 files.txt
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git branch
+[?2004l
+[?1h=
+* [32mmain[m[m
+
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git branch new-branch
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git checkout new-branh[Kch
+[?2004l
+Switched to branch 'new-branch'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git checkout -n[Kb new-feature
+[?2004l
+Switched to a new branch 'new-feature'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git merch feature-branch
+[?2004l
+git: 'merch' is not a git command. See 'git --help'.
+
+The most similar commands are
+	fetch
+	merge
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git rebase master
+[?2004l
+fatal: invalid upstream 'master'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git rebase master[1Pr[C[K[K[Kin
+[?2004l
+Current branch new-feature is up to date.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git remote add origin [7m https://github.com/libgit[27m[7m2[27m[7m/libgit2[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/libgit2/libgit2[K[K[K[K[K[K[K[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbase main[Kmote add origin  https://github.com/  [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7m https://github.com/libgit[27m[7m2[27m[7m/libgit2[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/libgit2/libgit2
+[?2004l
+error: remote origin already exists.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git fetch origin
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git pull origin main
+[?2004l
+fatal: couldn't find remote ref main
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push origin master
+[?2004l
+error: src refspec master does not match any
+[31merror: failed to push some refs to 'github.com:SaraGupta-TA/practice_repo.git'
+[m[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push origin master[K[K[K[Kin
+[?2004l
+Enumerating objects: 3, done.
+Counting objects:  33% (1/3)
+Counting objects:  66% (2/3)
+Counting objects: 100% (3/3)
+Counting objects: 100% (3/3), done.
+Writing objects:  33% (1/3)
+Writing objects:  66% (2/3)
+Writing objects: 100% (3/3)
+Writing objects: 100% (3/3), 217 bytes | 10.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:SaraGupta-TA/practice_repo.git
+ * [new branch]      main -> main
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git stash
+[?2004l
+No local changes to save
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git stash apply
+[?2004l
+No stash entries found.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ code .
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ code .git stash apply[K
+[?2004l
+Saved working directory and index state WIP on new-feature: 55d6316 Initial commit
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git stash[3Pcode .git stash[Kgit stash[3Pcode .git stash apply
+[?2004l
+On branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   files.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git add .
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git status
+[?2004l
+On branch new-feature
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   files.txt[m
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git lof[Kg
+[?2004l
+[?1h=
+[33mcommit 55d6316794d2b8f16080ad059468146d68b2ffe6[m[33m ([m[1;36mHEAD -> [m[1;32mnew-[m [33m[m[33m[m[1;36m[m[1;32mfeature[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mnew-branch[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Sara Gupta <saragupta0302&gmail.com>[m
+Date:   Mon Jun 17 21:05:43 2024 +0530[m
+[m
+    Initial commit[m
+
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git clean -f
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git diff
+[?2004l
+[?1h=
+
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git show Initial commit
+[?2004l
+fatal: ambiguous argument 'Initial': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git tag first
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push i[Korigin --tags
+[?2004l
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:SaraGupta-TA/practice_repo.git
+ * [new tag]         first -> first
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git log
+[?2004l
+[?1h=
+[33mcommit 55d6316794d2b8f16080ad059468146d68b2ffe6[m[33m ([m[1;36mHEAD -> [m[1;32mnew-[m [33m[m[33m[m[1;36m[m[1;32mfeature[m[33m, [m[1;33mtag: first[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mnew-branch[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Sara Gupta <saragupta0302&gmail.com>[m
+Date:   Mon Jun 17 21:05:43 2024 +0530[m
+[m
+    Initial commit[m
+
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ code .
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git add .
+[?2004l
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git status
+[?2004l
+On branch new-feature
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   files.txt[m
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git commit
+[?2004l
+hint: Waiting for your editor to close the file... 
+[K[new-feature a339bba] I am commiting
+ 1 file changed, 2 insertions(+)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push
+[?2004l
+fatal: The current branch new-feature has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin new-feature
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push --set-ipstream origin be[K[Knew-feta[K[Kature
+[?2004l
+error: unknown option `set-ipstream'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --repo <repository>   repository
+    --all                 push all refs
+    --mirror              mirror all refs
+    -d, --delete          delete refs
+    --tags                push tags (can't be used with --all or --mirror)
+    -n, --dry-run         dry run
+    --porcelain           machine-readable output
+    -f, --force           force updates
+    --force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --force-if-includes   require remote updates to be integrated locally
+    --recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --thin                use thin pack
+    --receive-pack <receive-pack>
+                          receive pack program
+    --exec <receive-pack>
+                          receive pack program
+    -u, --set-upstream    set upstream for git pull/status
+    --progress            force progress reporting
+    --prune               prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --follow-tags         push missing but relevant tags
+    --signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --atomic              request atomic transaction on remote side
+    -o, --push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git push --set-ipstream origin new-feature[1P[1@u
+[?2004l
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)
+Counting objects:  40% (2/5)
+Counting objects:  60% (3/5)
+Counting objects:  80% (4/5)
+Counting objects: 100% (5/5)
+Counting objects: 100% (5/5), done.
+Writing objects:  33% (1/3)
+Writing objects:  66% (2/3)
+Writing objects: 100% (3/3)
+Writing objects: 100% (3/3), 277 bytes | 8.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'new-feature' on GitHub by visiting:[K
+remote:      https://github.com/SaraGupta-TA/practice_repo/pull/new/new-feature[K
+remote: 
+To github.com:SaraGupta-TA/practice_repo.git
+ * [new branch]      new-feature -> new-feature
+Branch 'new-feature' set up to track remote branch 'new-feature' from 'origin'.
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git status
+[?2004l
+On branch new-feature
+Your branch is up to date with 'origin/new-feature'.
+
+nothing to commit, working tree clean
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ [7m https://github.com/libgit2/libgit2[27m
+[C[C[C[C[C[C[C[C[C[C[C[C[C[1P https://github.com/libgit2/libgit[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K          git add README[K[K[K[K[K[K[K[K[K[K[K[K[K[K        git remote show origin
+[?2004l
+* remote origin
+  Fetch URL: git@github.com:SaraGupta-TA/practice_repo.git
+  Push  URL: git@github.com:SaraGupta-TA/practice_repo.git
+  HEAD branch: main
+  Remote branches:
+    main        tracked
+    new-feature tracked
+  Local branches configured for 'git pull':
+    main        merges with remote main
+    new-feature merges with remote new-feature
+  Local refs configured for 'git push':
+    main        pushes to main        (local out of date)
+    new-feature pushes to new-feature (up to date)
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git tags
+[?2004l
+git: 'tags' is not a git command. See 'git --help'.
+
+The most similar commands are
+	stage
+	tag
+[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ git tag
+[?2004l
+[?1h=
+first[m
+
+[K[?1l>[?2004h]0;saragupta@LAPTOP-VBSP7VB8: /mnt/c/Users/hp/Desktop/practice/practice_repo [01;32msaragupta@LAPTOP-VBSP7VB8[00m:[01;34m/mnt/c/Users/hp/Desktop/practice/practice_repo[00m$ exit
+[?2004l
+exit
+
+Script done on 2024-06-17 21:30:15+05:30 [COMMAND_EXIT_CODE="0"]
